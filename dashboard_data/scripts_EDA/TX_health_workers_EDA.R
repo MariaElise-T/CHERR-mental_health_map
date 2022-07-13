@@ -2,7 +2,10 @@
 
 library(ggplot2)
 
-TX_health_workers_2020 <- read.csv("~/Desktop/dashboard_data/raw_data/TX_health_workers_2020.csv")
+#setwd('..')
+setwd("C:/Users/met48/Desktop/V1.1_CHERR-mental_health_data_processing/dashboard_data")
+
+TX_health_workers_2020 <- read.csv("data-intermediate/TX_health_workers_2020.csv")
 
 colnames(TX_health_workers_2020)
 

@@ -1,5 +1,8 @@
-social_medical <- read.csv("~/Desktop/dashboard_data/data_intermediate/social_medical.csv")
-TX_health_workers_2020 <- read.csv("~/Desktop/dashboard_data/data_intermediate/TX_health_workers_2020.csv")
+#setwd('..')
+setwd("C:/Users/met48/Desktop/V1.1_CHERR-mental_health_data_processing/dashboard_data")
+
+social_medical <- read.csv("data_intermediate/social_medical.csv")
+TX_health_workers_2020 <- read.csv("data_intermediate/TX_health_workers_2020.csv")
 data_merged <- merge(social_medical, TX_health_workers_2020, by.x="fips", by.y="FIPS")
 data_merged[data_merged == "."] <- NA
 data_merged[data_merged == "*"] <- NA
