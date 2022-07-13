@@ -24,10 +24,10 @@ The merged dataset (dashboard_data_v_1_1.csv) aggregates the following county-le
 
 The data are merged on FIPS code with *health_workers_merge.R* generating &data_intermediate/TX_health_workers_2020.csv*, *social_medical_format.R* generating *social_medical.csv*, and *data_merge.R* combining the prior two files to create *dashboard_data_v_1_1.csv*.
 
-# Static Data Exploration
+### Static Data Exploration
 
 *scripts/EDA* contains an exploratory script on the association between healthcare personel and urbanicity in Texas counties.  
 
-# Dynamic Data Exploration
+### Dynamic Data Exploration
 
 *visualizations-dynamic* contains an R Shiny interactive data exploration tool for *dashboard_data_v_1_1.csv*.  Note that county shape files must first be downloaded from https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html before the script will run.
