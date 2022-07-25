@@ -1,0 +1,210 @@
+library(readxl)
+library(stringr)
+
+#setwd('..')
+setwd("C:/Users/met48/Desktop/V1.2_CHERR-mental_health_data_processing/dashboard_data")
+
+########################################################
+# Social/Medical Data Format
+########################################################
+
+# Import poverty rates
+
+poverty_rates_2020 <- read_excel("data_raw/est20all.xls", skip = 3)
+poverty_rates_2020$fips <- paste(poverty_rates_2020$`State FIPS Code`, poverty_rates_2020$`County FIPS Code`, sep='')
+
+# Import chronic conditions
+
+chronic_conditions_2018 <- read_excel("data_raw/County_Table_Chronic_Conditions_Prevalence_by_Age_2018.xlsx", sheet = "All Beneficiaries")
+colnames(chronic_conditions_2018) <- c("state", "county", "fips", "Alcohol_Abuse", "Alzheimers_Disease_Dementia", 
+                                       "Arthritis","Asthma",	"Atrial_Fibrillation",	"Autism_Spectrum_Disorders",	
+                                       "Cancer",	"Chronic_Kidney_Disease",	"COPD",	"Depression", 	"Diabetes",	
+                                       "Drug_Abuse_Substance_Abuse",	"HIV_AIDS",	"Heart_Failure", "Hepatitis_B_and_C", 
+                                       "Hyperlipidemia",	"Hypertension",	"Ischemic_Heart_Disease",	"Osteoporosis",	
+                                       "Schizophrenia_Other_Psychotic_Disorders", "Stroke")
+
+chronic_conditions_2018 <- chronic_conditions_2018[6:nrow(chronic_conditions_2018),]
+
+# Import unemployment
+
+unemployment <- read.csv("data_raw/laucntycur14.txt", header=FALSE, sep="|")
+colnames(unemployment) <- c("LAUS_area_code", "state_fips", "county_fips", "county", "period", "employed", "unemployed", "level", "rate")
+unemployment <- unemployment[7:nrow(unemployment),]
+unemployment$fips <- paste(unemployment$state_fips, unemployment$county_fips, sep='')
+unemployment$fips <- gsub(" ", "", unemployment$fips, fixed = TRUE)
+unemployment <- unemployment[which(unemployment$period=="   Mar-22  "),] 
+
+# Import incarceration
+
+incarceration_trends <- read.csv("data_raw/incarceration-trends/incarceration_trends_texas_2018.csv")
+incarceration_trends$fips <- str_pad(incarceration_trends$fips, 5, pad = "0")
+
+# Data merge
+
+social_medical <- merge(poverty_rates_2020, chronic_conditions_2018, by="fips")
+social_medical <- merge(social_medical, unemployment, by="fips")
+social_medical <- merge(social_medical, incarceration_trends, by="fips")
+
+# Data prune/save
+
+social_medical <- social_medical[which(social_medical$state.x == 'Texas'),]
+
+social_medical$pov_perc_all <- social_medical$`Poverty Percent, All Ages`
+social_medical$pov_perc_under_18 <- social_medical$`Poverty Percent, Age 0-17`
+social_medical$pov_perc_under_5 <- social_medical$`Poverty Percent, Age 0-4`
+
+social_medical <- social_medical[,c("fips", "Name", "pov_perc_all", 
+                                    "pov_perc_under_18", "pov_perc_under_5",
+                                    "Alcohol_Abuse","Autism_Spectrum_Disorders",
+                                    "Depression", "Drug_Abuse_Substance_Abuse", 
+                                    "Schizophrenia_Other_Psychotic_Disorders",
+                                    "rate", "total_pop", "total_jail_pop", 
+                                    "total_jail_pretrial")]
+social_medical$unemployment <- social_medical$rate
+social_medical <- social_medical[,which(!colnames(social_medical) %in% c("rate"))]
+
+social_medical$Name <- str_replace(social_medical$Name, " County", "")
+social_medical = subset(social_medical, select = -c(pov_perc_under_5))
+
+########################################################
+# Healthcare Personelle
+########################################################
+
+LCDCs_2020 <- read.delim("data_raw/LCDCs_2020.csv")
+LCDCs_2020 <- LCDCs_2020[,c(1,2,3,5)]
+
+licensed_clinical_SWs_2020 <- read.delim("data_raw/licensed_clinical_SWs_2020.csv")
+licensed_clinical_SWs_2020 <- licensed_clinical_SWs_2020[,c(1,3,5)]
+
+licensed_counselors_2020 <- read.delim("data_raw/licensed_counselors_2020.csv")
+licensed_counselors_2020 <- licensed_counselors_2020[,c(1,3,5)]
+
+social_workers_bach_2020 <- read.delim("data_raw/social_workers_bach_2020.csv")
+social_workers_bach_2020 <- social_workers_bach_2020[,c(1,3,5)]
+
+social_workers_masters_2020 <- read.delim("data_raw/social_workers_masters_2020.csv")
+social_workers_masters_2020 <- social_workers_masters_2020[,c(1,3,5)]
+
+texas_PCPs_per_capita <- read.csv("data_raw/texas_PCPs_per_capita.csv")
+texas_PCPs_per_capita <- texas_PCPs_per_capita[,c(1,3,5)]
+
+TX_health_workers_2020 <- merge(LCDCs_2020, licensed_clinical_SWs_2020, by="County")
+TX_health_workers_2020 <- merge(TX_health_workers_2020, licensed_counselors_2020, by="County")
+TX_health_workers_2020 <- merge(TX_health_workers_2020, social_workers_bach_2020, by="County")
+TX_health_workers_2020 <- merge(TX_health_workers_2020, social_workers_masters_2020, by="County")
+TX_health_workers_2020 <- merge(TX_health_workers_2020, texas_PCPs_per_capita, by="County")
+
+TX_health_workers_2020$County <- paste(TX_health_workers_2020$County, "County")
+
+all_urban_scores_by_FIPS <- read.csv("data_raw/all_urban_scores_by_FIPS.csv")
+all_urban_scores_by_FIPS <- all_urban_scores_by_FIPS[which(all_urban_scores_by_FIPS$State=='TX'),]
+
+TX_health_workers_2020 <- merge(TX_health_workers_2020, all_urban_scores_by_FIPS, by.x="County", by.y="County_Name", all.x=T)
+TX_health_workers_2020 = subset(TX_health_workers_2020, select = -c(County))
+
+########################################################
+# Diagnosis Rates
+########################################################
+
+data_merged <- merge(social_medical, TX_health_workers_2020, by.x="fips", by.y="FIPS")
+data_merged[data_merged == "."] <- NA
+data_merged[data_merged == "*"] <- NA
+data_merged[data_merged == ""] <- NA
+data_merged$Depression <- as.numeric(data_merged$Depression)
+data_merged$Alcohol_Abuse <- as.numeric(data_merged$Alcohol_Abuse)
+data_merged$Autism_Spectrum_Disorders <- as.numeric(data_merged$Autism_Spectrum_Disorders)
+data_merged$Drug_Abuse_Substance_Abuse <- as.numeric(data_merged$Drug_Abuse_Substance_Abuse)
+data_merged$Schizophrenia_Other_Psychotic_Disorders <- as.numeric(data_merged$Schizophrenia_Other_Psychotic_Disorders)
+
+########################################################
+# Opioid Merge
+########################################################
+
+opioids_per_100_2020 <- read.csv("data_raw/opioids_per_100_2020.csv")
+opioids_per_100_2020$FIPS <- str_pad(opioids_per_100_2020$FIPS, 5, "left", "0")
+opioids_per_100_2020 <- subset(opioids_per_100_2020, select = -c(State, County))
+data_merged <- merge(data_merged, opioids_per_100_2020, by.x="fips", by.y="FIPS", all.x=T)
+
+########################################################
+# Bars per Capita Merge
+########################################################
+
+# Import county pops
+
+county_pops <- read.csv("data_raw/co-est2021-pop-48.csv")
+county_pops <- county_pops[,c(1:2)]
+colnames(county_pops) <- c("County", "ESTIMATESBASE2020")
+county_pops$County <- gsub("\\.", "", county_pops$County)
+
+# Import bars per county
+
+census_2020_bars_by_county <- read.csv("data_raw/CBP_2020_alcohol_establishments.csv")
+census_2020_bars_by_county = census_2020_bars_by_county[which(census_2020_bars_by_county$EMPSZES_LABEL == 'All establishments'),]
+census_2020_bars_by_county = census_2020_bars_by_county[,c("NAME", "ESTAB")]
+
+# Merge population and bars DFs
+
+pop_bars <- merge(census_2020_bars_by_county, county_pops, by.x='NAME', by.y='County', all.y=T)
+pop_bars$ESTIMATESBASE2020 <- gsub("\\,", "", pop_bars$ESTIMATESBASE2020)
+pop_bars$bars_per_capita = 100000*as.numeric(pop_bars$ESTAB)/as.numeric(pop_bars$ESTIMATESBASE2020)
+pop_bars <- pop_bars[,c("NAME", "bars_per_capita")]
+pop_bars$NAME <- gsub(" County, Texas", "", pop_bars$NAME)
+colnames(pop_bars) <- c("NAME", "alc_est_per_capita")
+
+data_merged <- merge(data_merged, pop_bars, by.x="Name", by.y="NAME", all.x=T)
+
+########################################################
+# Veterans Merge
+########################################################
+
+VetPop2018 <- read.csv("data_raw/9L_VetPop2018_County.csv")
+VetPop2018 <- VetPop2018[,c("County..St", "FIPS", "X9.30.2020")]
+VetPop2018$FIPS <- str_pad(VetPop2018$FIPS, 5, pad = "0")
+VetPop2018 <- VetPop2018[which(substr(VetPop2018$FIPS, start = 1, stop = 2)=='48'),]
+VetPop2018$County..St <- gsub("\\,TX", "", VetPop2018$County..St)
+
+county_pops <- read.csv("data_raw/co-est2021-pop-48.csv")
+county_pops <- county_pops[,c(1:2)]
+colnames(county_pops) <- c("County", "ESTIMATESBASE2020")
+county_pops$County <- gsub("\\.", "", county_pops$County)
+county_pops$County <- gsub("\\.", "", county_pops$County)
+county_pops$County <- gsub("\\ County, Texas", "", county_pops$County)
+
+vet_pop_merged <- merge(VetPop2018, county_pops, by.x="County..St", by.y="County")
+vet_pop_merged$X9.30.2020 <- gsub("\\,", "", vet_pop_merged$X9.30.2020)
+vet_pop_merged$ESTIMATESBASE2020 <- gsub("\\,", "", vet_pop_merged$ESTIMATESBASE2020)
+vet_pop_merged$vet_percent_2020 <- 100*as.numeric(vet_pop_merged$X9.30.2020)/as.numeric(vet_pop_merged$ESTIMATESBASE2020)
+vet_pop_merged <- vet_pop_merged[,c("FIPS", "vet_percent_2020")]
+
+data_merged <- merge(data_merged, vet_pop_merged, by.x="fips", by.y="FIPS", all.x=T)
+
+########################################################
+# Health Insurance Merge
+########################################################
+
+uninsured_by_county <- read_excel("data_raw/aspe-uninsured-estimates-by-county.xlsx", sheet = "All Uninsured (%)")
+uninsured_by_county <- uninsured_by_county[,c("FIPS Code", "Percent Uninsured" )]
+colnames(uninsured_by_county) <- c("FIPS", "percent_uninsured" )
+uninsured_by_county$percent_uninsured <- 100*uninsured_by_county$percent_uninsured
+
+data_merged <- merge(data_merged, uninsured_by_county, by.x="fips", by.y="FIPS", all.x=T)
+
+########################################################
+# Add I-35 Filter Variable
+########################################################
+
+data_merged$I_35 <- ifelse(data_merged$Name %in% c("Bexar", "Comal", "Hays", "Travis", 
+                                                   "Williamson", "Bastrop", "Caldwell", 
+                                                   "Guadalupe", "Kendall", "Blanco", "Burnett"),
+                           "I-35 Corridor", "Non I-35 Corridor")
+
+########################################################
+# Data Completeness
+########################################################
+
+data_merged$percent_comp <- NA
+for(i in 1:nrow(data_merged)){
+  data_merged[i,]$percent_comp <- 1-sum(is.na(data_merged[i,]))/(ncol(data_merged)-3)
+}
+
+write.csv(data_merged, "dashboard_data_v_1_2.csv", row.names=F)
