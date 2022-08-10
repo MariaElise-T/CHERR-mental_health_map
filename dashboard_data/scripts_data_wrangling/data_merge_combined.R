@@ -2,7 +2,7 @@ library(readxl)
 library(stringr)
 
 #setwd('..')
-setwd("C:/Users/met48/Desktop/V1.2_CHERR-mental_health_data_processing/dashboard_data")
+setwd("C:/Users/met48/Desktop/V1.3_CHERR-mental_health_data_processing/dashboard_data")
 
 ########################################################
 # Social/Medical Data Format
@@ -116,6 +116,8 @@ data_merged$Autism_Spectrum_Disorders <- as.numeric(data_merged$Autism_Spectrum_
 data_merged$Drug_Abuse_Substance_Abuse <- as.numeric(data_merged$Drug_Abuse_Substance_Abuse)
 data_merged$Schizophrenia_Other_Psychotic_Disorders <- as.numeric(data_merged$Schizophrenia_Other_Psychotic_Disorders)
 
+data_merged$X2020.Total.Population <- as.numeric(gsub(",", "", data_merged$X2020.Total.Population))
+
 ########################################################
 # Opioid Merge
 ########################################################
@@ -190,6 +192,51 @@ uninsured_by_county$percent_uninsured <- 100*uninsured_by_county$percent_uninsur
 data_merged <- merge(data_merged, uninsured_by_county, by.x="fips", by.y="FIPS", all.x=T)
 
 ########################################################
+# Mental Health Court Cases
+########################################################
+
+Mental_Health_Court_Cases <- read_excel("data_raw/Mental_Health_Court_Cases.xlsx", sheet = "2020")
+colnames(Mental_Health_Court_Cases) <- c("County", "Temp_MH_Services_NewApp_2020", "Ext_MH_Services_NewApp_2020", "Modification_NewApp_2020", "Auth_Meds_NewApp_2020", "Temp_MH_Services_Hearing_2020", "Ext_MH_Services_Hearing_2020", "Modification_Hearing_2020", "Auth_Meds_Hearing_2020")
+data_merged <- merge(data_merged, Mental_Health_Court_Cases, by.x="Name", by.y="County", all.x=T)
+
+data_merged$Temp_MH_Services_NewApp_2020_per100k <- 100000*as.numeric(data_merged$Temp_MH_Services_NewApp_2020)/as.numeric(data_merged$X2020.Total.Population)
+data_merged$Ext_MH_Services_NewApp_2020_per100k <- 100000*as.numeric(data_merged$Ext_MH_Services_NewApp_2020)/as.numeric(data_merged$X2020.Total.Population)
+data_merged$Modification_NewApp_2020_per100k <- 100000*as.numeric(data_merged$Modification_NewApp_2020)/as.numeric(data_merged$X2020.Total.Population)
+data_merged$Auth_Meds_NewApp_2020_per100k <- 100000*as.numeric(data_merged$Auth_Meds_NewApp_2020)/as.numeric(data_merged$X2020.Total.Population)
+
+data_merged$Temp_MH_Services_Hearing_2020_per100k <- 100000*as.numeric(data_merged$Temp_MH_Services_Hearing_2020)/as.numeric(data_merged$X2020.Total.Population)
+data_merged$Ext_MH_Services_Hearing_2020_per100k <- 100000*as.numeric(data_merged$Ext_MH_Services_Hearing_2020)/as.numeric(data_merged$X2020.Total.Population)
+data_merged$Modification_Hearing_2020_per100k <- 100000*as.numeric(data_merged$Modification_Hearing_2020)/as.numeric(data_merged$X2020.Total.Population)
+data_merged$Auth_Meds_Hearing_2020_per100k <- 100000*as.numeric(data_merged$Auth_Meds_Hearing_2020)/as.numeric(data_merged$X2020.Total.Population)
+
+########################################################
+# Psychiatrists per Capita
+########################################################
+
+texas_psychiatrists_2020 <- read.csv("data_raw/texas_psychiatrists_2020.csv")
+texas_psychiatrists_2020 <- texas_psychiatrists_2020[,c("County", "X2020.Psychiatrist.Total", "Ratio.of.Psychiatrists.to.100.000.Population")]
+data_merged <- merge(data_merged, texas_psychiatrists_2020, by.x="Name", by.y="County", all.x=T)
+
+########################################################
+# Traffic Fatalities
+########################################################
+
+texas_traffic_DUI_fatalities <- read_excel("data_raw/texas_traffic_DUI_fatalities.xls")
+texas_traffic_DUI_fatalities <- texas_traffic_DUI_fatalities[,c("State", "Number Total", "Number BAC = .08+", "Percent BAC = .08+")]
+colnames(texas_traffic_DUI_fatalities) <- c("County", "Total Traffic Fatalities", "Total Traffic Fatalities BAC gt 08", "Percent Traffic Fatalities BAC gt 08")
+texas_traffic_DUI_fatalities$County <- str_split(texas_traffic_DUI_fatalities$County, " \\(", simplify = TRUE)[,1]
+texas_traffic_DUI_fatalities$County <- tolower(texas_traffic_DUI_fatalities$County)
+texas_traffic_DUI_fatalities$County <- str_to_title(texas_traffic_DUI_fatalities$County)
+texas_traffic_DUI_fatalities[texas_traffic_DUI_fatalities == 'NA'] <- NA
+
+texas_traffic_DUI_fatalities$`Total Traffic Fatalities` <- as.numeric(texas_traffic_DUI_fatalities$`Total Traffic Fatalities`)
+texas_traffic_DUI_fatalities$`Total Traffic Fatalities BAC gt 08` <- as.numeric(texas_traffic_DUI_fatalities$`Total Traffic Fatalities BAC gt 08`)
+texas_traffic_DUI_fatalities$`Percent Traffic Fatalities BAC gt 08` <- as.numeric(texas_traffic_DUI_fatalities$`Percent Traffic Fatalities BAC gt 08`)
+
+data_merged <- merge(data_merged, texas_traffic_DUI_fatalities, by.x="Name", by.y="County", all.x=T)
+data_merged$Traffic_Fatalities_per_100k <- (100000)*data_merged$`Total Traffic Fatalities`/as.numeric(data_merged$X2020.Total.Population)
+
+########################################################
 # Add I-35 Filter Variable
 ########################################################
 
@@ -207,4 +254,4 @@ for(i in 1:nrow(data_merged)){
   data_merged[i,]$percent_comp <- 1-sum(is.na(data_merged[i,]))/(ncol(data_merged)-3)
 }
 
-write.csv(data_merged, "dashboard_data_v_1_2.csv", row.names=F)
+write.csv(data_merged, "dashboard_data_v_1_3.csv", row.names=F)
