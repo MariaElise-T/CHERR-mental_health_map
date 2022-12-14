@@ -3,9 +3,9 @@
 library(ggplot2)
 
 #setwd('..')
-setwd("C:/Users/met48/Desktop/V1.2_CHERR-mental_health_data_processing/dashboard_data")
+setwd("C:/Users/met48/Desktop/V1.3_CHERR-mental_health_data_processing/dashboard_data")
 
-TX_health_workers_2020 <- read.csv("dashboard_data_v_1_2.csv")
+TX_health_workers_2020 <- read.csv("dashboard_data_v_1_3.csv")
 
 colnames(TX_health_workers_2020)
 
@@ -46,7 +46,7 @@ ggplot(TX_SWs, aes(x=as.factor(NCHS_2013), y=Count.per.100k, color=Role))+
 ggplot(TX_SWs, aes(x=as.factor(UIC_2013), y=Count.per.100k, color=Role))+
   geom_boxplot()
 
-# Liscensed professional counselors
+# Licensed professional counselors
 
 ggplot(TX_health_workers_2020, aes(x=as.factor(RUCC_2013), y=Ratio.of.LPCs.to.100.000.Population))+
   geom_boxplot()
@@ -57,6 +57,15 @@ ggplot(TX_health_workers_2020, aes(x=as.factor(NCHS_2013), y=Ratio.of.LPCs.to.10
 ggplot(TX_health_workers_2020, aes(x=as.factor(UIC_2013), y=Ratio.of.LPCs.to.100.000.Population))+
   geom_boxplot()
 
+# Licensed psychiatrists
 
+ggplot(TX_health_workers_2020, aes(x=as.factor(RUCC_2013), y=Ratio.of.Psychiatrists.to.100.000.Population))+
+  geom_boxplot()
 
+ggplot(TX_health_workers_2020, aes(x=as.factor(NCHS_2013), y=Ratio.of.Psychiatrists.to.100.000.Population
+))+
+  geom_boxplot()
 
+ggplot(TX_health_workers_2020, aes(x=as.factor(UIC_2013), y=Ratio.of.Psychiatrists.to.100.000.Population
+))+
+  geom_boxplot()

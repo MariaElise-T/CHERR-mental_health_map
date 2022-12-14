@@ -4,9 +4,33 @@
 
 ### Variables
 
-- **The number of ()**, *.csv*, source: 
-- **The number of ()**, *.csv*, source: 
-- **The number of ()**, *.csv*, source: 
+- **Added the number of new applications for temporary mental health services per county (2020)**, *Mental_Health_Court_Cases.csv*, source: https://card.txcourts.gov/ReportSelection.aspx, Probate and Mental Health -> Mental Health Activity by County
+- **Added the number of new applications for extended mental health services per county (2020)**, *Mental_Health_Court_Cases.csv*, source: https://card.txcourts.gov/ReportSelection.aspx, Probate and Mental Health -> Mental Health Activity by County
+- **Added the number of new applications for modifications to prior mental health court orders per county (2020)**, *Mental_Health_Court_Cases.csv*, source: https://card.txcourts.gov/ReportSelection.aspx, Probate and Mental Health -> Mental Health Activity by County
+- **Added the number of new applications for authorization of mental health medications per county (2020)**, *Mental_Health_Court_Cases.csv*, source: https://card.txcourts.gov/ReportSelection.aspx, Probate and Mental Health -> Mental Health Activity by County
+- **Added the number of hearings held for temporary mental health services per county (2020)**, *Mental_Health_Court_Cases.csv*, source: https://card.txcourts.gov/ReportSelection.aspx, Probate and Mental Health -> Mental Health Activity by County
+- **Added the number of hearings held for extended mental health services per county (2020)**, *Mental_Health_Court_Cases.csv*, source: https://card.txcourts.gov/ReportSelection.aspx, Probate and Mental Health -> Mental Health Activity by County
+- **Added the number of hearings held for modifications to prior mental health court orders per county (2020)**, *Mental_Health_Court_Cases.csv*, source: https://card.txcourts.gov/ReportSelection.aspx, Probate and Mental Health -> Mental Health Activity by County
+- **Added the number of hearings held for authorization of mental health medications per county (2020)**, *Mental_Health_Court_Cases.csv*, source: https://card.txcourts.gov/ReportSelection.aspx, Probate and Mental Health -> Mental Health Activity by County
+- **Added the number of new applications for temporary mental health services per 100k population per county (2020)**, *Mental_Health_Court_Cases.csv*, source: https://card.txcourts.gov/ReportSelection.aspx, Probate and Mental Health -> Mental Health Activity by County
+- **Added the number of new applications for extended mental health services per 100k population per county (2020)**, *Mental_Health_Court_Cases.csv*, source: https://card.txcourts.gov/ReportSelection.aspx, Probate and Mental Health -> Mental Health Activity by County
+- **Added the number of new applications for modifications to prior mental health court orders per 100k population per county (2020)**, *Mental_Health_Court_Cases.csv*, source: https://card.txcourts.gov/ReportSelection.aspx, Probate and Mental Health -> Mental Health Activity by County
+- **Added the number of new applications for authorization of mental health medications per 100k population per county (2020)**, *Mental_Health_Court_Cases.csv*, source: https://card.txcourts.gov/ReportSelection.aspx, Probate and Mental Health -> Mental Health Activity by County Mental Health -> Mental Health Activity by County
+- **Added the number of hearings held for temporary mental health services per 100k population per county (2020)**, *Mental_Health_Court_Cases.csv*, source: https://card.txcourts.gov/ReportSelection.aspx, Probate and Mental Health -> Mental Health Activity by County
+- **Added the number of hearings held for extended mental health services per 100k population per county (2020)**, *Mental_Health_Court_Cases.csv*, source: https://card.txcourts.gov/ReportSelection.aspx, Probate and Mental Health -> Mental Health Activity by County
+- **Added the number of hearings held for modifications to prior mental health court orders per 100k population per county (2020)**, *Mental_Health_Court_Cases.csv*, source: https://card.txcourts.gov/ReportSelection.aspx, Probate and Mental Health -> Mental Health Activity by County
+- **Added the number of hearings held for authorization of mental health medications per 100k population per county (2020)**, *Mental_Health_Court_Cases.csv*, source: https://card.txcourts.gov/ReportSelection.aspx, Probate and Mental Health -> Mental Health Activity by County
+- **Added the number of licensed psychiatrists per county  and ratio of licensed psychiatrists per county per 100k population (2020) **, *texas_psychiatrists_2020.csv*, source: https://www.dshs.texas.gov/health-professions-resource-center-hprc/health-professions/county-supply-distribution-tables-41/psychiatrists-2020
+- **Added total traffic fatalities, traffic fatalities involing a driver with a BAC over 0.08, the percent of traffic fatalities involving a driver with a BAC over 0.08, and the ratio of traffic fatalities per 100k population (2019) **, *Texas_DUI_fatalities_2019.csv*, source: NHTSA FARS query, https://cdan.dot.gov/query
+
+### Static Data Exploration
+
+- Modified *TX_health_workers_EDA.R* to work with *dashboard_data_v_1_3.csv*
+- Added *mental_health_court_plots.R* to display yearly counts from 2017 to 2021 for the MH court variables
+
+### Dynamic Data Exploration
+
+- Modified *tableau_shiny_alt.R* to work with *dashboard_data_v_1_3.csv*
 
 ## RELEASE 1.2 CHANGES
 

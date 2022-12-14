@@ -221,8 +221,15 @@ data_merged <- merge(data_merged, texas_psychiatrists_2020, by.x="Name", by.y="C
 # Traffic Fatalities
 ########################################################
 
-texas_traffic_DUI_fatalities <- read_excel("data_raw/texas_traffic_DUI_fatalities.xls")
-texas_traffic_DUI_fatalities <- texas_traffic_DUI_fatalities[,c("State", "Number Total", "Number BAC = .08+", "Percent BAC = .08+")]
+texas_traffic_DUI_fatalities <- read_excel("data_raw/Texas_DUI_Fatalities_2019.xlsx", skip = 8)
+texas_traffic_DUI_fatalities <- texas_traffic_DUI_fatalities[1:(nrow(texas_traffic_DUI_fatalities)-10),]
+colnames(texas_traffic_DUI_fatalities) <- c("county", "BAC_00_count", "BAC_00_percent", "BAC_01_07_count", "BAC_01_07_percent", "BAC_gte_08_count", 
+                                         "BAC_gte_08_percent", "BAC_gte_01_count", "BAC_gte_01_percent", "BAC_gte_15_count", "BAC_gte_15_percent", 
+                                         "total_count", "total_percent")
+
+texas_traffic_DUI_fatalities$county <- gsub("Texas - ", "", texas_traffic_DUI_fatalities$county)
+
+texas_traffic_DUI_fatalities <- texas_traffic_DUI_fatalities[,c("county", "total_count", "BAC_gte_08_count", "BAC_gte_08_percent")]
 colnames(texas_traffic_DUI_fatalities) <- c("County", "Total Traffic Fatalities", "Total Traffic Fatalities BAC gt 08", "Percent Traffic Fatalities BAC gt 08")
 texas_traffic_DUI_fatalities$County <- str_split(texas_traffic_DUI_fatalities$County, " \\(", simplify = TRUE)[,1]
 texas_traffic_DUI_fatalities$County <- tolower(texas_traffic_DUI_fatalities$County)
