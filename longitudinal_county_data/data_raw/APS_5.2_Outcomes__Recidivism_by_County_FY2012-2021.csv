@@ -1,0 +1,2526 @@
+Fiscal Year,County,Region,Alleged Victims in Repeat Investigation,Alleged Victims in Initial Investigation,Recidivism
+2017,Camp,4-Tyler,9,72,0.125
+2017,Cass,4-Tyler,16,121,0.132
+2014,Camp,4-Tyler,17,72,0.236
+2014,Cass,4-Tyler,12,126,0.095
+2021,Armstrong,1-Lubbock,1,2,0.5
+2021,Bailey,1-Lubbock,3,23,0.13
+2021,Briscoe,1-Lubbock,2,9,0.222
+2021,Carson,1-Lubbock,3,19,0.158
+2021,Castro,1-Lubbock,7,25,0.28
+2021,Childress,1-Lubbock,10,31,0.323
+2021,Cochran,1-Lubbock,9,36,0.25
+2021,Collingsworth,1-Lubbock,6,23,0.261
+2021,Crosby,1-Lubbock,19,82,0.232
+2021,Dallam,1-Lubbock,2,10,0.2
+2021,Deaf Smith,1-Lubbock,9,70,0.129
+2021,Dickens,1-Lubbock,6,15,0.4
+2021,Donley,1-Lubbock,2,19,0.105
+2021,Floyd,1-Lubbock,6,33,0.182
+2021,Garza,1-Lubbock,8,30,0.267
+2021,Gray,1-Lubbock,19,122,0.156
+2021,Hale,1-Lubbock,25,160,0.156
+2021,Hall,1-Lubbock,0,14,0
+2021,Hansford,1-Lubbock,4,11,0.364
+2021,Hartley,1-Lubbock,0,7,0
+2021,Hemphill,1-Lubbock,0,3,0
+2021,Hockley,1-Lubbock,36,151,0.238
+2021,Hutchinson,1-Lubbock,15,103,0.146
+2021,King,1-Lubbock,0,2,0
+2021,Lamb,1-Lubbock,20,144,0.139
+2021,Lipscomb,1-Lubbock,0,5,0
+2021,Lubbock,1-Lubbock,386,1891,0.204
+2021,Lynn,1-Lubbock,10,59,0.169
+2021,Moore,1-Lubbock,6,51,0.118
+2021,Motley,1-Lubbock,2,5,0.4
+2021,Ochiltree,1-Lubbock,8,33,0.242
+2021,Oldham,1-Lubbock,0,3,0
+2021,Parmer,1-Lubbock,2,17,0.118
+2021,Potter,1-Lubbock,169,838,0.202
+2021,Randall,1-Lubbock,67,447,0.15
+2021,Roberts,1-Lubbock,0,2,0
+2021,Sherman,1-Lubbock,1,11,0.091
+2021,Swisher,1-Lubbock,10,35,0.286
+2021,Terry,1-Lubbock,38,161,0.236
+2021,Wheeler,1-Lubbock,1,15,0.067
+2021,Yoakum,1-Lubbock,3,23,0.13
+2021,Archer,2-Abilene,14,68,0.206
+2021,Baylor,2-Abilene,3,27,0.111
+2021,Brown,2-Abilene,60,345,0.174
+2021,Callahan,2-Abilene,21,111,0.189
+2021,Clay,2-Abilene,20,82,0.244
+2021,Coleman,2-Abilene,15,86,0.174
+2021,Comanche,2-Abilene,12,94,0.128
+2021,Cottle,2-Abilene,1,10,0.1
+2021,Eastland,2-Abilene,33,144,0.229
+2021,Fisher,2-Abilene,6,22,0.273
+2021,Foard,2-Abilene,1,9,0.111
+2021,Hardeman,2-Abilene,3,22,0.136
+2021,Haskell,2-Abilene,8,44,0.182
+2021,Jack,2-Abilene,11,53,0.208
+2021,Jones,2-Abilene,12,114,0.105
+2021,Kent,2-Abilene,0,5,0
+2021,Knox,2-Abilene,12,36,0.333
+2021,Mitchell,2-Abilene,8,37,0.216
+2021,Montague,2-Abilene,27,166,0.163
+2021,Nolan,2-Abilene,24,133,0.18
+2021,Runnels,2-Abilene,14,83,0.169
+2021,Scurry,2-Abilene,16,102,0.157
+2021,Shackelford,2-Abilene,4,22,0.182
+2021,Stephens,2-Abilene,9,44,0.205
+2021,Stonewall,2-Abilene,5,13,0.385
+2021,Taylor,2-Abilene,287,1316,0.218
+2021,Throckmorton,2-Abilene,1,15,0.067
+2021,Wichita,2-Abilene,292,1320,0.221
+2021,Wilbarger,2-Abilene,22,119,0.185
+2021,Young,2-Abilene,27,166,0.163
+2021,Collin,3-Arlington,178,1420,0.125
+2021,Cooke,3-Arlington,23,138,0.167
+2021,Dallas,3-Arlington,990,7139,0.139
+2021,Denton,3-Arlington,133,1326,0.1
+2021,Ellis,3-Arlington,47,398,0.118
+2021,Erath,3-Arlington,10,112,0.089
+2021,Fannin,3-Arlington,19,144,0.132
+2021,Grayson,3-Arlington,77,621,0.124
+2021,Hood,3-Arlington,27,209,0.129
+2021,Hunt,3-Arlington,75,438,0.171
+2021,Johnson,3-Arlington,72,504,0.143
+2021,Kaufman,3-Arlington,38,307,0.124
+2021,Navarro,3-Arlington,26,208,0.125
+2021,Palo Pinto,3-Arlington,33,156,0.212
+2021,Parker,3-Arlington,63,438,0.144
+2021,Rockwall,3-Arlington,18,170,0.106
+2021,Somervell,3-Arlington,1,30,0.033
+2021,Tarrant,3-Arlington,860,6060,0.142
+2021,Wise,3-Arlington,28,223,0.126
+2021,Anderson,4-Tyler,30,224,0.134
+2021,Bowie,4-Tyler,39,315,0.124
+2021,Camp,4-Tyler,6,61,0.098
+2021,Cass,4-Tyler,19,136,0.14
+2021,Cherokee,4-Tyler,43,243,0.177
+2021,Delta,4-Tyler,4,36,0.111
+2021,Franklin,4-Tyler,6,33,0.182
+2021,Gregg,4-Tyler,60,506,0.119
+2021,Harrison,4-Tyler,33,248,0.133
+2021,Henderson,4-Tyler,61,480,0.127
+2021,Hopkins,4-Tyler,17,162,0.105
+2021,Lamar,4-Tyler,38,274,0.139
+2021,Marion,4-Tyler,16,71,0.225
+2021,Morris,4-Tyler,9,71,0.127
+2021,Panola,4-Tyler,7,82,0.085
+2021,Rains,4-Tyler,11,55,0.2
+2021,Red River,4-Tyler,4,54,0.074
+2021,Rusk,4-Tyler,23,161,0.143
+2021,Smith,4-Tyler,144,1012,0.142
+2021,Titus,4-Tyler,15,99,0.152
+2021,Upshur,4-Tyler,26,141,0.184
+2021,Van Zandt,4-Tyler,37,290,0.128
+2021,Wood,4-Tyler,29,264,0.11
+2021,Angelina,5-Beaumont,40,375,0.107
+2021,Hardin,5-Beaumont,26,241,0.108
+2021,Houston,5-Beaumont,8,111,0.072
+2021,Jasper,5-Beaumont,39,191,0.204
+2021,Jefferson,5-Beaumont,161,1200,0.134
+2021,Nacogdoches,5-Beaumont,44,244,0.18
+2021,Newton,5-Beaumont,9,56,0.161
+2021,Orange,5-Beaumont,47,401,0.117
+2021,Polk,5-Beaumont,52,282,0.184
+2021,Sabine,5-Beaumont,4,58,0.069
+2021,San Augustine,5-Beaumont,3,60,0.05
+2021,San Jacinto,5-Beaumont,14,159,0.088
+2021,Shelby,5-Beaumont,15,116,0.129
+2021,Trinity,5-Beaumont,6,76,0.079
+2021,Tyler,5-Beaumont,14,120,0.117
+2021,Austin,6-Houston,17,103,0.165
+2021,Brazoria,6-Houston,111,891,0.125
+2021,Chambers,6-Houston,23,101,0.228
+2021,Colorado,6-Houston,9,83,0.108
+2021,Fort Bend,6-Houston,212,1398,0.152
+2021,Galveston,6-Houston,199,1277,0.156
+2021,Harris,6-Houston,1983,13346,0.149
+2021,Liberty,6-Houston,73,394,0.185
+2021,Matagorda,6-Houston,16,133,0.12
+2021,Montgomery,6-Houston,251,1527,0.164
+2021,Walker,6-Houston,22,160,0.138
+2021,Waller,6-Houston,11,125,0.088
+2021,Wharton,6-Houston,13,127,0.102
+2021,Bastrop,7-Austin,44,325,0.135
+2021,Bell,7-Austin,223,1366,0.163
+2021,Blanco,7-Austin,2,44,0.045
+2021,Bosque,7-Austin,12,87,0.138
+2021,Brazos,7-Austin,80,450,0.178
+2021,Burleson,7-Austin,15,82,0.183
+2021,Burnet,7-Austin,31,201,0.154
+2021,Caldwell,7-Austin,30,198,0.152
+2021,Coryell,7-Austin,45,262,0.172
+2021,Falls,7-Austin,11,89,0.124
+2021,Fayette,7-Austin,16,96,0.167
+2021,Freestone,7-Austin,7,83,0.084
+2021,Grimes,7-Austin,23,130,0.177
+2021,Hamilton,7-Austin,5,46,0.109
+2021,Hays,7-Austin,67,505,0.133
+2021,Hill,7-Austin,24,178,0.135
+2021,Lampasas,7-Austin,29,127,0.228
+2021,Lee,7-Austin,5,64,0.078
+2021,Leon,7-Austin,5,61,0.082
+2021,Limestone,7-Austin,10,118,0.085
+2021,Llano,7-Austin,22,136,0.162
+2021,Madison,7-Austin,5,47,0.106
+2021,McLennan,7-Austin,173,1111,0.156
+2021,Milam,7-Austin,25,141,0.177
+2021,Mills,7-Austin,2,20,0.1
+2021,Robertson,7-Austin,6,73,0.082
+2021,San Saba,7-Austin,3,25,0.12
+2021,Travis,7-Austin,563,3204,0.176
+2021,Washington,7-Austin,24,130,0.185
+2021,Williamson,7-Austin,159,1044,0.152
+2021,Atascosa,8-San Antonio,39,219,0.178
+2021,Bandera,8-San Antonio,25,120,0.208
+2021,Bexar,8-San Antonio,1254,7870,0.159
+2021,Calhoun,8-San Antonio,12,90,0.133
+2021,Comal,8-San Antonio,65,463,0.14
+2021,DeWitt,8-San Antonio,10,89,0.112
+2021,Dimmit,8-San Antonio,5,52,0.096
+2021,Edwards,8-San Antonio,0,6,0
+2021,Frio,8-San Antonio,7,54,0.13
+2021,Gillespie,8-San Antonio,17,102,0.167
+2021,Goliad,8-San Antonio,3,36,0.083
+2021,Gonzales,8-San Antonio,11,66,0.167
+2021,Guadalupe,8-San Antonio,80,453,0.177
+2021,Jackson,8-San Antonio,3,49,0.061
+2021,Karnes,8-San Antonio,3,53,0.057
+2021,Kendall,8-San Antonio,13,95,0.137
+2021,Kerr,8-San Antonio,46,374,0.123
+2021,Kinney,8-San Antonio,1,22,0.045
+2021,La Salle,8-San Antonio,7,27,0.259
+2021,Lavaca,8-San Antonio,11,70,0.157
+2021,Maverick,8-San Antonio,8,127,0.063
+2021,Medina,8-San Antonio,18,164,0.11
+2021,Real,8-San Antonio,3,20,0.15
+2021,Uvalde,8-San Antonio,11,92,0.12
+2021,Val Verde,8-San Antonio,17,158,0.108
+2021,Victoria,8-San Antonio,53,374,0.142
+2021,Wilson,8-San Antonio,21,167,0.126
+2021,Zavala,8-San Antonio,11,49,0.224
+2021,Andrews,9-Midland,2,42,0.048
+2021,Coke,9-Midland,7,38,0.184
+2021,Concho,9-Midland,6,24,0.25
+2021,Crane,9-Midland,0,14,0
+2021,Crockett,9-Midland,9,23,0.391
+2021,Dawson,9-Midland,9,83,0.108
+2021,Ector,9-Midland,117,609,0.192
+2021,Gaines,9-Midland,4,39,0.103
+2021,Glasscock,9-Midland,0,3,0
+2021,Howard,9-Midland,33,219,0.151
+2021,Irion,9-Midland,0,6,0
+2021,Kimble,9-Midland,2,34,0.059
+2021,Loving,9-Midland,0,1,0
+2021,Martin,9-Midland,1,13,0.077
+2021,Mason,9-Midland,8,22,0.364
+2021,McCulloch,9-Midland,9,57,0.158
+2021,Menard,9-Midland,0,12,0
+2021,Midland,9-Midland,54,385,0.14
+2021,Pecos,9-Midland,16,84,0.19
+2021,Reagan,9-Midland,5,15,0.333
+2021,Reeves,9-Midland,11,40,0.275
+2021,Schleicher,9-Midland,1,14,0.071
+2021,Sterling,9-Midland,0,7,0
+2021,Sutton,9-Midland,3,11,0.273
+2021,Terrell,9-Midland,1,5,0.2
+2021,Tom Green,9-Midland,238,1127,0.211
+2021,Upton,9-Midland,1,10,0.1
+2021,Ward,9-Midland,5,47,0.106
+2021,Winkler,9-Midland,5,25,0.2
+2021,Brewster,10-El Paso,20,102,0.196
+2021,Culberson,10-El Paso,0,8,0
+2021,El Paso,10-El Paso,554,3823,0.145
+2021,Hudspeth,10-El Paso,3,23,0.13
+2021,Jeff Davis,10-El Paso,2,4,0.5
+2021,Presidio,10-El Paso,3,49,0.061
+2021,Aransas,11-Edinburg,24,211,0.114
+2021,Bee,11-Edinburg,23,147,0.156
+2021,Brooks,11-Edinburg,5,41,0.122
+2021,Cameron,11-Edinburg,259,1640,0.158
+2021,Duval,11-Edinburg,12,50,0.24
+2021,Hidalgo,11-Edinburg,402,2527,0.159
+2021,Jim Hogg,11-Edinburg,3,22,0.136
+2021,Jim Wells,11-Edinburg,33,233,0.142
+2021,Kenedy,11-Edinburg,0,1,0
+2021,Kleberg,11-Edinburg,11,127,0.087
+2021,Live Oak,11-Edinburg,10,38,0.263
+2021,McMullen,11-Edinburg,0,2,0
+2021,Nueces,11-Edinburg,329,2048,0.161
+2021,Refugio,11-Edinburg,5,30,0.167
+2021,San Patricio,11-Edinburg,72,385,0.187
+2021,Starr,11-Edinburg,18,169,0.107
+2021,Webb,11-Edinburg,94,616,0.153
+2021,Willacy,11-Edinburg,18,114,0.158
+2021,Zapata,11-Edinburg,5,39,0.128
+2021,Out of State,Out of State,7,39,0.179
+2020,Armstrong,1-Lubbock,0,1,0
+2020,Bailey,1-Lubbock,6,30,0.2
+2020,Briscoe,1-Lubbock,2,3,0.667
+2020,Carson,1-Lubbock,3,23,0.13
+2020,Castro,1-Lubbock,4,19,0.211
+2020,Childress,1-Lubbock,6,30,0.2
+2020,Cochran,1-Lubbock,7,29,0.241
+2020,Collingsworth,1-Lubbock,1,23,0.043
+2020,Crosby,1-Lubbock,12,49,0.245
+2020,Dallam,1-Lubbock,1,16,0.063
+2020,Deaf Smith,1-Lubbock,6,53,0.113
+2020,Dickens,1-Lubbock,0,12,0
+2020,Donley,1-Lubbock,4,22,0.182
+2020,Floyd,1-Lubbock,7,39,0.179
+2020,Garza,1-Lubbock,3,49,0.061
+2020,Gray,1-Lubbock,15,133,0.113
+2020,Hale,1-Lubbock,24,161,0.149
+2020,Hall,1-Lubbock,3,23,0.13
+2020,Delta,4-Tyler,2,22,0.091
+2020,Hansford,1-Lubbock,0,17,0
+2020,Hartley,1-Lubbock,1,8,0.125
+2020,Hemphill,1-Lubbock,0,7,0
+2020,Hockley,1-Lubbock,33,146,0.226
+2020,Hutchinson,1-Lubbock,10,121,0.083
+2020,Lamb,1-Lubbock,17,132,0.129
+2020,Lipscomb,1-Lubbock,0,5,0
+2020,Lubbock,1-Lubbock,398,1978,0.201
+2020,Lynn,1-Lubbock,5,32,0.156
+2020,Moore,1-Lubbock,7,44,0.159
+2020,Motley,1-Lubbock,0,4,0
+2020,Ochiltree,1-Lubbock,0,39,0
+2020,Oldham,1-Lubbock,2,5,0.4
+2020,Parmer,1-Lubbock,4,16,0.25
+2020,Potter,1-Lubbock,153,807,0.19
+2020,Randall,1-Lubbock,59,455,0.13
+2020,Roberts,1-Lubbock,0,2,0
+2020,Sherman,1-Lubbock,0,1,0
+2020,Swisher,1-Lubbock,9,34,0.265
+2020,Terry,1-Lubbock,30,151,0.199
+2020,Wheeler,1-Lubbock,4,16,0.25
+2020,Yoakum,1-Lubbock,2,15,0.133
+2020,Archer,2-Abilene,16,69,0.232
+2020,Baylor,2-Abilene,5,27,0.185
+2020,Brown,2-Abilene,44,300,0.147
+2020,Callahan,2-Abilene,20,99,0.202
+2020,Clay,2-Abilene,10,61,0.164
+2020,Coleman,2-Abilene,14,76,0.184
+2020,Comanche,2-Abilene,8,92,0.087
+2020,Cottle,2-Abilene,1,13,0.077
+2020,Eastland,2-Abilene,29,146,0.199
+2020,Fisher,2-Abilene,4,26,0.154
+2020,Foard,2-Abilene,1,13,0.077
+2020,Hardeman,2-Abilene,9,42,0.214
+2020,Haskell,2-Abilene,13,56,0.232
+2020,Jack,2-Abilene,4,27,0.148
+2020,Jones,2-Abilene,32,105,0.305
+2020,Kent,2-Abilene,1,4,0.25
+2020,Knox,2-Abilene,6,28,0.214
+2020,Mitchell,2-Abilene,7,38,0.184
+2020,Montague,2-Abilene,27,159,0.17
+2020,Nolan,2-Abilene,19,109,0.174
+2020,Runnels,2-Abilene,16,60,0.267
+2020,Scurry,2-Abilene,12,76,0.158
+2020,Shackelford,2-Abilene,1,9,0.111
+2020,Stephens,2-Abilene,5,37,0.135
+2020,Stonewall,2-Abilene,3,10,0.3
+2020,Taylor,2-Abilene,285,1365,0.209
+2020,Throckmorton,2-Abilene,3,7,0.429
+2020,Wichita,2-Abilene,290,1311,0.221
+2020,Wilbarger,2-Abilene,39,158,0.247
+2020,Young,2-Abilene,24,126,0.19
+2020,Collin,3-Arlington,179,1320,0.136
+2020,Cooke,3-Arlington,12,140,0.086
+2020,Dallas,3-Arlington,918,6794,0.135
+2020,Denton,3-Arlington,118,1186,0.099
+2020,Ellis,3-Arlington,43,385,0.112
+2020,Erath,3-Arlington,14,94,0.149
+2020,Fannin,3-Arlington,25,154,0.162
+2020,Grayson,3-Arlington,99,619,0.16
+2020,Hood,3-Arlington,38,215,0.177
+2020,Hunt,3-Arlington,47,439,0.107
+2020,Johnson,3-Arlington,83,536,0.155
+2020,Kaufman,3-Arlington,35,310,0.113
+2020,Navarro,3-Arlington,32,224,0.143
+2020,Palo Pinto,3-Arlington,24,156,0.154
+2020,Parker,3-Arlington,57,385,0.148
+2020,Rockwall,3-Arlington,9,146,0.062
+2020,Somervell,3-Arlington,4,20,0.2
+2020,Tarrant,3-Arlington,874,5995,0.146
+2020,Wise,3-Arlington,15,191,0.079
+2020,Anderson,4-Tyler,25,201,0.124
+2020,Bowie,4-Tyler,48,359,0.134
+2020,Camp,4-Tyler,6,38,0.158
+2020,Cass,4-Tyler,16,133,0.12
+2020,Cherokee,4-Tyler,38,277,0.137
+2020,Franklin,4-Tyler,6,27,0.222
+2020,Gregg,4-Tyler,68,518,0.131
+2020,Harrison,4-Tyler,29,235,0.123
+2020,Henderson,4-Tyler,61,452,0.135
+2020,Hopkins,4-Tyler,27,202,0.134
+2020,Lamar,4-Tyler,33,271,0.122
+2020,Marion,4-Tyler,7,83,0.084
+2020,Morris,4-Tyler,19,97,0.196
+2020,Panola,4-Tyler,15,77,0.195
+2020,Rains,4-Tyler,9,58,0.155
+2020,Red River,4-Tyler,9,60,0.15
+2020,Rusk,4-Tyler,29,171,0.17
+2020,Smith,4-Tyler,142,963,0.147
+2020,Titus,4-Tyler,12,122,0.098
+2020,Upshur,4-Tyler,29,158,0.184
+2020,Van Zandt,4-Tyler,44,270,0.163
+2020,Wood,4-Tyler,42,257,0.163
+2020,Angelina,5-Beaumont,67,411,0.163
+2020,Hardin,5-Beaumont,19,177,0.107
+2020,Houston,5-Beaumont,20,116,0.172
+2020,Jasper,5-Beaumont,37,188,0.197
+2020,Jefferson,5-Beaumont,196,1246,0.157
+2020,Nacogdoches,5-Beaumont,45,280,0.161
+2020,Newton,5-Beaumont,7,78,0.09
+2020,Orange,5-Beaumont,62,403,0.154
+2020,Polk,5-Beaumont,46,331,0.139
+2020,Sabine,5-Beaumont,10,55,0.182
+2020,San Augustine,5-Beaumont,15,67,0.224
+2020,San Jacinto,5-Beaumont,32,173,0.185
+2020,Shelby,5-Beaumont,13,109,0.119
+2020,Trinity,5-Beaumont,12,94,0.128
+2020,Tyler,5-Beaumont,20,103,0.194
+2020,Austin,6-Houston,10,89,0.112
+2020,Brazoria,6-Houston,104,769,0.135
+2020,Chambers,6-Houston,21,109,0.193
+2020,Colorado,6-Houston,8,78,0.103
+2020,Fort Bend,6-Houston,210,1308,0.161
+2020,Galveston,6-Houston,187,1296,0.144
+2020,Harris,6-Houston,1987,13429,0.148
+2020,Liberty,6-Houston,56,352,0.159
+2020,Matagorda,6-Houston,14,126,0.111
+2020,Montgomery,6-Houston,248,1443,0.172
+2020,Walker,6-Houston,33,162,0.204
+2020,Waller,6-Houston,17,116,0.147
+2020,Wharton,6-Houston,25,145,0.172
+2020,Bastrop,7-Austin,48,344,0.14
+2020,Bell,7-Austin,160,1289,0.124
+2020,Blanco,7-Austin,8,42,0.19
+2020,Bosque,7-Austin,13,74,0.176
+2020,Brazos,7-Austin,56,439,0.128
+2020,Burleson,7-Austin,13,90,0.144
+2020,Burnet,7-Austin,28,182,0.154
+2020,Caldwell,7-Austin,29,185,0.157
+2020,Coryell,7-Austin,45,267,0.169
+2020,Falls,7-Austin,19,100,0.19
+2020,Fayette,7-Austin,12,84,0.143
+2020,Freestone,7-Austin,18,87,0.207
+2020,Grimes,7-Austin,14,125,0.112
+2020,Hamilton,7-Austin,8,44,0.182
+2020,Hays,7-Austin,67,411,0.163
+2020,Hill,7-Austin,25,166,0.151
+2020,Lampasas,7-Austin,16,104,0.154
+2020,Lee,7-Austin,8,61,0.131
+2020,Leon,7-Austin,14,62,0.226
+2020,Limestone,7-Austin,11,113,0.097
+2020,Llano,7-Austin,18,134,0.134
+2020,Madison,7-Austin,14,46,0.304
+2020,McLennan,7-Austin,200,1200,0.167
+2020,Milam,7-Austin,18,132,0.136
+2020,Mills,7-Austin,4,18,0.222
+2020,Robertson,7-Austin,10,73,0.137
+2020,San Saba,7-Austin,6,26,0.231
+2020,Travis,7-Austin,541,3191,0.17
+2020,Washington,7-Austin,11,115,0.096
+2020,Williamson,7-Austin,155,1026,0.151
+2020,Atascosa,8-San Antonio,29,207,0.14
+2020,Bandera,8-San Antonio,14,122,0.115
+2020,Bexar,8-San Antonio,1156,7875,0.147
+2020,Calhoun,8-San Antonio,0,65,0
+2020,Comal,8-San Antonio,58,461,0.126
+2020,DeWitt,8-San Antonio,14,108,0.13
+2020,Dimmit,8-San Antonio,5,32,0.156
+2020,Edwards,8-San Antonio,1,10,0.1
+2020,Frio,8-San Antonio,6,55,0.109
+2020,Gillespie,8-San Antonio,13,98,0.133
+2020,Goliad,8-San Antonio,6,28,0.214
+2020,Gonzales,8-San Antonio,8,54,0.148
+2020,Guadalupe,8-San Antonio,69,403,0.171
+2020,Jackson,8-San Antonio,3,52,0.058
+2020,Karnes,8-San Antonio,14,62,0.226
+2020,Kendall,8-San Antonio,12,109,0.11
+2020,Kerr,8-San Antonio,43,313,0.137
+2020,Kinney,8-San Antonio,1,19,0.053
+2020,La Salle,8-San Antonio,3,25,0.12
+2020,Lavaca,8-San Antonio,13,88,0.148
+2020,Maverick,8-San Antonio,21,134,0.157
+2020,Medina,8-San Antonio,16,200,0.08
+2020,Real,8-San Antonio,2,19,0.105
+2020,Uvalde,8-San Antonio,20,121,0.165
+2020,Val Verde,8-San Antonio,11,139,0.079
+2020,Victoria,8-San Antonio,46,350,0.131
+2020,Wilson,8-San Antonio,26,170,0.153
+2020,Zavala,8-San Antonio,3,41,0.073
+2020,Andrews,9-Midland,4,48,0.083
+2020,Borden,9-Midland,0,2,0
+2020,Coke,9-Midland,2,39,0.051
+2020,Concho,9-Midland,3,19,0.158
+2020,Crane,9-Midland,1,13,0.077
+2020,Crockett,9-Midland,3,13,0.231
+2020,Dawson,9-Midland,14,81,0.173
+2020,Ector,9-Midland,78,541,0.144
+2020,Gaines,9-Midland,3,46,0.065
+2020,Glasscock,9-Midland,0,5,0
+2020,Howard,9-Midland,49,223,0.22
+2020,Irion,9-Midland,2,5,0.4
+2020,Kimble,9-Midland,2,14,0.143
+2020,Martin,9-Midland,1,12,0.083
+2020,Mason,9-Midland,4,12,0.333
+2020,McCulloch,9-Midland,22,67,0.328
+2020,Menard,9-Midland,5,12,0.417
+2020,Midland,9-Midland,38,354,0.107
+2020,Pecos,9-Midland,8,60,0.133
+2020,Reagan,9-Midland,0,5,0
+2020,Reeves,9-Midland,4,56,0.071
+2020,Schleicher,9-Midland,1,11,0.091
+2020,Sterling,9-Midland,0,3,0
+2020,Sutton,9-Midland,4,16,0.25
+2020,Terrell,9-Midland,1,7,0.143
+2020,Tom Green,9-Midland,212,1086,0.195
+2020,Upton,9-Midland,1,8,0.125
+2020,Ward,9-Midland,9,61,0.148
+2020,Winkler,9-Midland,6,27,0.222
+2020,Brewster,10-El Paso,23,90,0.256
+2020,Culberson,10-El Paso,4,16,0.25
+2020,El Paso,10-El Paso,583,3807,0.153
+2020,Hudspeth,10-El Paso,1,20,0.05
+2020,Jeff Davis,10-El Paso,0,6,0
+2020,Presidio,10-El Paso,4,38,0.105
+2020,Aransas,11-Edinburg,35,219,0.16
+2020,Bee,11-Edinburg,35,170,0.206
+2020,Brooks,11-Edinburg,5,42,0.119
+2020,Cameron,11-Edinburg,247,1638,0.151
+2020,Duval,11-Edinburg,6,61,0.098
+2020,Hidalgo,11-Edinburg,388,2618,0.148
+2020,Jim Hogg,11-Edinburg,3,19,0.158
+2020,Jim Wells,11-Edinburg,43,245,0.176
+2020,Kleberg,11-Edinburg,15,131,0.115
+2020,Live Oak,11-Edinburg,7,54,0.13
+2020,McMullen,11-Edinburg,0,2,0
+2020,Nueces,11-Edinburg,427,2207,0.193
+2020,Refugio,11-Edinburg,3,28,0.107
+2020,San Patricio,11-Edinburg,62,366,0.169
+2020,Starr,11-Edinburg,21,197,0.107
+2020,Webb,11-Edinburg,56,559,0.1
+2020,Willacy,11-Edinburg,17,108,0.157
+2020,Zapata,11-Edinburg,3,39,0.077
+2020,Out of State,Out of State,4,40,0.1
+2019,Armstrong,1-Lubbock,0,4,0
+2019,Bailey,1-Lubbock,4,27,0.148
+2019,Briscoe,1-Lubbock,3,4,0.75
+2019,Carson,1-Lubbock,5,32,0.156
+2019,Castro,1-Lubbock,1,18,0.056
+2019,Childress,1-Lubbock,3,28,0.107
+2019,Cochran,1-Lubbock,14,57,0.246
+2019,Collingsworth,1-Lubbock,1,19,0.053
+2019,Crosby,1-Lubbock,17,67,0.254
+2019,Dallam,1-Lubbock,8,19,0.421
+2019,Deaf Smith,1-Lubbock,2,50,0.04
+2019,Dickens,1-Lubbock,3,23,0.13
+2019,Donley,1-Lubbock,1,18,0.056
+2019,Floyd,1-Lubbock,7,40,0.175
+2019,Garza,1-Lubbock,10,64,0.156
+2019,Gray,1-Lubbock,11,123,0.089
+2019,Hale,1-Lubbock,25,161,0.155
+2019,Hall,1-Lubbock,3,16,0.188
+2019,Hansford,1-Lubbock,1,7,0.143
+2019,Hartley,1-Lubbock,1,3,0.333
+2019,Hemphill,1-Lubbock,0,1,0
+2019,Hockley,1-Lubbock,38,170,0.224
+2019,Hutchinson,1-Lubbock,12,98,0.122
+2019,Lamb,1-Lubbock,16,122,0.131
+2019,Lipscomb,1-Lubbock,0,2,0
+2019,Lubbock,1-Lubbock,457,2187,0.209
+2019,Lynn,1-Lubbock,4,55,0.073
+2019,Moore,1-Lubbock,8,63,0.127
+2019,Motley,1-Lubbock,2,10,0.2
+2019,Ochiltree,1-Lubbock,4,37,0.108
+2019,Oldham,1-Lubbock,3,6,0.5
+2019,Parmer,1-Lubbock,0,18,0
+2019,Potter,1-Lubbock,157,884,0.178
+2019,Randall,1-Lubbock,62,464,0.134
+2019,Roberts,1-Lubbock,0,1,0
+2019,Sherman,1-Lubbock,3,8,0.375
+2019,Swisher,1-Lubbock,3,34,0.088
+2019,Terry,1-Lubbock,20,142,0.141
+2019,Wheeler,1-Lubbock,1,21,0.048
+2019,Yoakum,1-Lubbock,4,18,0.222
+2019,Archer,2-Abilene,22,73,0.301
+2019,Baylor,2-Abilene,9,47,0.191
+2019,Brown,2-Abilene,36,251,0.143
+2019,Callahan,2-Abilene,20,127,0.157
+2019,Clay,2-Abilene,17,78,0.218
+2019,Coleman,2-Abilene,13,98,0.133
+2019,Comanche,2-Abilene,14,104,0.135
+2019,Cottle,2-Abilene,1,8,0.125
+2019,Eastland,2-Abilene,38,188,0.202
+2019,Fisher,2-Abilene,6,30,0.2
+2019,Foard,2-Abilene,3,13,0.231
+2019,Hardeman,2-Abilene,7,30,0.233
+2019,Haskell,2-Abilene,13,41,0.317
+2019,Jack,2-Abilene,4,39,0.103
+2019,Jones,2-Abilene,20,123,0.163
+2019,Kent,2-Abilene,0,3,0
+2019,Knox,2-Abilene,0,14,0
+2019,Mitchell,2-Abilene,4,39,0.103
+2019,Montague,2-Abilene,28,166,0.169
+2019,Nolan,2-Abilene,24,114,0.211
+2019,Runnels,2-Abilene,14,86,0.163
+2019,Scurry,2-Abilene,17,86,0.198
+2019,Shackelford,2-Abilene,4,15,0.267
+2019,Stephens,2-Abilene,15,62,0.242
+2019,Stonewall,2-Abilene,1,6,0.167
+2019,Taylor,2-Abilene,350,1428,0.245
+2019,Throckmorton,2-Abilene,1,10,0.1
+2019,Wichita,2-Abilene,335,1350,0.248
+2019,Wilbarger,2-Abilene,18,131,0.137
+2019,Young,2-Abilene,24,141,0.17
+2019,Collin,3-Arlington,142,1331,0.107
+2019,Cooke,3-Arlington,18,131,0.137
+2019,Dallas,3-Arlington,882,6964,0.127
+2019,Denton,3-Arlington,127,1201,0.106
+2019,Ellis,3-Arlington,60,433,0.139
+2019,Erath,3-Arlington,14,117,0.12
+2019,Fannin,3-Arlington,16,158,0.101
+2019,Grayson,3-Arlington,92,654,0.141
+2019,Hood,3-Arlington,40,269,0.149
+2019,Hunt,3-Arlington,64,514,0.125
+2019,Johnson,3-Arlington,88,585,0.15
+2019,Kaufman,3-Arlington,52,344,0.151
+2019,Navarro,3-Arlington,11,186,0.059
+2019,Palo Pinto,3-Arlington,15,158,0.095
+2019,Parker,3-Arlington,45,415,0.108
+2019,Rockwall,3-Arlington,20,163,0.123
+2019,Somervell,3-Arlington,8,41,0.195
+2019,Tarrant,3-Arlington,827,6084,0.136
+2019,Wise,3-Arlington,18,193,0.093
+2019,Anderson,4-Tyler,27,232,0.116
+2019,Bowie,4-Tyler,35,330,0.106
+2019,Camp,4-Tyler,10,55,0.182
+2019,Cass,4-Tyler,20,154,0.13
+2019,Cherokee,4-Tyler,39,291,0.134
+2019,Delta,4-Tyler,6,32,0.188
+2019,Franklin,4-Tyler,5,35,0.143
+2019,Gregg,4-Tyler,74,522,0.142
+2019,Harrison,4-Tyler,26,234,0.111
+2019,Henderson,4-Tyler,75,562,0.133
+2019,Hopkins,4-Tyler,29,169,0.172
+2019,Lamar,4-Tyler,35,257,0.136
+2019,Marion,4-Tyler,6,76,0.079
+2019,Morris,4-Tyler,18,90,0.2
+2019,Panola,4-Tyler,8,86,0.093
+2019,Rains,4-Tyler,5,59,0.085
+2019,Red River,4-Tyler,11,69,0.159
+2019,Rusk,4-Tyler,22,186,0.118
+2019,Smith,4-Tyler,196,1005,0.195
+2019,Titus,4-Tyler,22,108,0.204
+2019,Upshur,4-Tyler,20,147,0.136
+2019,Van Zandt,4-Tyler,36,282,0.128
+2019,Wood,4-Tyler,40,227,0.176
+2019,Angelina,5-Beaumont,64,462,0.139
+2019,Hardin,5-Beaumont,30,197,0.152
+2019,Houston,5-Beaumont,12,117,0.103
+2019,Jasper,5-Beaumont,38,223,0.17
+2019,Jefferson,5-Beaumont,177,1359,0.13
+2019,Nacogdoches,5-Beaumont,51,265,0.192
+2019,Newton,5-Beaumont,15,60,0.25
+2019,Orange,5-Beaumont,53,435,0.122
+2019,Polk,5-Beaumont,70,372,0.188
+2019,Sabine,5-Beaumont,5,65,0.077
+2019,San Augustine,5-Beaumont,11,79,0.139
+2019,San Jacinto,5-Beaumont,38,232,0.164
+2019,Shelby,5-Beaumont,21,131,0.16
+2019,Trinity,5-Beaumont,21,112,0.188
+2019,Tyler,5-Beaumont,17,120,0.142
+2019,Austin,6-Houston,9,84,0.107
+2019,Brazoria,6-Houston,98,809,0.121
+2019,Chambers,6-Houston,19,102,0.186
+2019,Colorado,6-Houston,7,82,0.085
+2019,Fort Bend,6-Houston,192,1390,0.138
+2019,Galveston,6-Houston,232,1303,0.178
+2019,Harris,6-Houston,2009,13044,0.154
+2019,Liberty,6-Houston,69,355,0.194
+2019,Matagorda,6-Houston,22,146,0.151
+2019,Montgomery,6-Houston,210,1529,0.137
+2019,Walker,6-Houston,32,163,0.196
+2019,Waller,6-Houston,24,141,0.17
+2019,Wharton,6-Houston,29,172,0.169
+2019,Bastrop,7-Austin,42,355,0.118
+2019,Bell,7-Austin,215,1465,0.147
+2019,Blanco,7-Austin,1,17,0.059
+2019,Bosque,7-Austin,29,100,0.29
+2019,Brazos,7-Austin,86,449,0.192
+2019,Burleson,7-Austin,20,100,0.2
+2019,Burnet,7-Austin,17,172,0.099
+2019,Caldwell,7-Austin,32,177,0.181
+2019,Coryell,7-Austin,47,283,0.166
+2019,Falls,7-Austin,30,122,0.246
+2019,Fayette,7-Austin,17,100,0.17
+2019,Freestone,7-Austin,19,97,0.196
+2019,Grimes,7-Austin,14,119,0.118
+2019,Hamilton,7-Austin,13,55,0.236
+2019,Hays,7-Austin,54,460,0.117
+2019,Hill,7-Austin,30,196,0.153
+2019,Lampasas,7-Austin,15,129,0.116
+2019,Lee,7-Austin,10,53,0.189
+2019,Leon,7-Austin,10,72,0.139
+2019,Limestone,7-Austin,14,132,0.106
+2019,Llano,7-Austin,17,109,0.156
+2019,Madison,7-Austin,9,48,0.188
+2019,McLennan,7-Austin,213,1196,0.178
+2019,Milam,7-Austin,17,111,0.153
+2019,Mills,7-Austin,3,21,0.143
+2019,Robertson,7-Austin,15,94,0.16
+2019,San Saba,7-Austin,4,37,0.108
+2019,Travis,7-Austin,599,3277,0.183
+2019,Washington,7-Austin,20,102,0.196
+2019,Williamson,7-Austin,132,996,0.133
+2019,Atascosa,8-San Antonio,35,238,0.147
+2019,Bandera,8-San Antonio,22,108,0.204
+2019,Bexar,8-San Antonio,1269,8103,0.157
+2019,Calhoun,8-San Antonio,16,95,0.168
+2019,Comal,8-San Antonio,70,430,0.163
+2019,DeWitt,8-San Antonio,11,91,0.121
+2019,Dimmit,8-San Antonio,6,56,0.107
+2019,Edwards,8-San Antonio,3,9,0.333
+2019,Frio,8-San Antonio,6,67,0.09
+2019,Gillespie,8-San Antonio,9,91,0.099
+2019,Goliad,8-San Antonio,1,26,0.038
+2019,Gonzales,8-San Antonio,14,75,0.187
+2019,Guadalupe,8-San Antonio,66,470,0.14
+2019,Jackson,8-San Antonio,5,37,0.135
+2019,Karnes,8-San Antonio,8,39,0.205
+2019,Kendall,8-San Antonio,13,126,0.103
+2019,Kerr,8-San Antonio,57,373,0.153
+2019,Kinney,8-San Antonio,3,23,0.13
+2019,La Salle,8-San Antonio,6,34,0.176
+2019,Lavaca,8-San Antonio,9,70,0.129
+2019,Maverick,8-San Antonio,21,165,0.127
+2019,Medina,8-San Antonio,44,209,0.211
+2019,Real,8-San Antonio,8,27,0.296
+2019,Uvalde,8-San Antonio,10,107,0.093
+2019,Val Verde,8-San Antonio,18,158,0.114
+2019,Victoria,8-San Antonio,48,318,0.151
+2019,Wilson,8-San Antonio,21,170,0.124
+2019,Zavala,8-San Antonio,10,56,0.179
+2019,Andrews,9-Midland,6,31,0.194
+2019,Borden,9-Midland,0,2,0
+2019,Coke,9-Midland,4,22,0.182
+2019,Concho,9-Midland,7,16,0.438
+2019,Crane,9-Midland,1,7,0.143
+2019,Crockett,9-Midland,3,17,0.176
+2019,Dawson,9-Midland,15,100,0.15
+2019,Ector,9-Midland,101,608,0.166
+2019,Gaines,9-Midland,7,44,0.159
+2019,Glasscock,9-Midland,0,2,0
+2019,Howard,9-Midland,36,221,0.163
+2019,Irion,9-Midland,1,7,0.143
+2019,Kimble,9-Midland,8,38,0.211
+2019,Martin,9-Midland,5,23,0.217
+2019,Mason,9-Midland,4,14,0.286
+2019,McCulloch,9-Midland,20,76,0.263
+2019,Menard,9-Midland,6,16,0.375
+2019,Midland,9-Midland,45,395,0.114
+2019,Pecos,9-Midland,9,68,0.132
+2019,Reagan,9-Midland,2,7,0.286
+2019,Reeves,9-Midland,3,43,0.07
+2019,Schleicher,9-Midland,1,5,0.2
+2019,Sterling,9-Midland,0,2,0
+2019,Sutton,9-Midland,0,9,0
+2019,Terrell,9-Midland,1,9,0.111
+2019,Tom Green,9-Midland,247,1181,0.209
+2019,Upton,9-Midland,3,12,0.25
+2019,Ward,9-Midland,9,40,0.225
+2019,Winkler,9-Midland,6,33,0.182
+2019,Brewster,10-El Paso,13,74,0.176
+2019,Culberson,10-El Paso,2,19,0.105
+2019,El Paso,10-El Paso,537,3690,0.146
+2019,Hudspeth,10-El Paso,3,18,0.167
+2019,Jeff Davis,10-El Paso,1,11,0.091
+2019,Presidio,10-El Paso,8,37,0.216
+2019,Aransas,11-Edinburg,28,192,0.146
+2019,Bee,11-Edinburg,33,179,0.184
+2019,Brooks,11-Edinburg,2,30,0.067
+2019,Cameron,11-Edinburg,296,1683,0.176
+2019,Duval,11-Edinburg,1,55,0.018
+2019,Hidalgo,11-Edinburg,396,2637,0.15
+2019,Jim Hogg,11-Edinburg,4,21,0.19
+2019,Jim Wells,11-Edinburg,40,239,0.167
+2019,Kenedy,11-Edinburg,0,1,0
+2019,Kleberg,11-Edinburg,22,148,0.149
+2019,Live Oak,11-Edinburg,10,57,0.175
+2019,McMullen,11-Edinburg,0,1,0
+2019,Nueces,11-Edinburg,342,1957,0.175
+2019,Refugio,11-Edinburg,5,28,0.179
+2019,San Patricio,11-Edinburg,61,362,0.169
+2019,Starr,11-Edinburg,19,180,0.106
+2019,Webb,11-Edinburg,69,592,0.117
+2019,Willacy,11-Edinburg,14,108,0.13
+2019,Zapata,11-Edinburg,10,54,0.185
+2019,Out of State,Out of State,5,30,0.167
+2018,Armstrong,1-Lubbock,1,5,0.2
+2018,Bailey,1-Lubbock,1,24,0.042
+2018,Briscoe,1-Lubbock,0,1,0
+2018,Carson,1-Lubbock,3,32,0.094
+2018,Castro,1-Lubbock,5,18,0.278
+2018,Childress,1-Lubbock,3,36,0.083
+2018,Cochran,1-Lubbock,9,55,0.164
+2018,Collingsworth,1-Lubbock,5,11,0.455
+2018,Crosby,1-Lubbock,17,52,0.327
+2018,Dallam,1-Lubbock,10,28,0.357
+2018,Deaf Smith,1-Lubbock,8,68,0.118
+2018,Dickens,1-Lubbock,2,27,0.074
+2018,Donley,1-Lubbock,8,25,0.32
+2018,Floyd,1-Lubbock,6,38,0.158
+2018,Garza,1-Lubbock,14,58,0.241
+2018,Gray,1-Lubbock,21,149,0.141
+2018,Hale,1-Lubbock,38,205,0.185
+2018,Hall,1-Lubbock,2,11,0.182
+2018,Hansford,1-Lubbock,0,10,0
+2018,Hartley,1-Lubbock,0,5,0
+2018,Hemphill,1-Lubbock,1,7,0.143
+2018,Hockley,1-Lubbock,31,132,0.235
+2018,Hutchinson,1-Lubbock,12,95,0.126
+2018,Lamb,1-Lubbock,24,114,0.211
+2018,Lipscomb,1-Lubbock,1,13,0.077
+2018,Lubbock,1-Lubbock,567,2227,0.255
+2018,Lynn,1-Lubbock,11,50,0.22
+2018,Moore,1-Lubbock,4,67,0.06
+2018,Motley,1-Lubbock,1,14,0.071
+2018,Ochiltree,1-Lubbock,2,28,0.071
+2018,Oldham,1-Lubbock,0,1,0
+2018,Parmer,1-Lubbock,0,16,0
+2018,Potter,1-Lubbock,176,885,0.199
+2018,Randall,1-Lubbock,68,460,0.148
+2018,Sherman,1-Lubbock,2,9,0.222
+2018,Swisher,1-Lubbock,8,46,0.174
+2018,Terry,1-Lubbock,17,146,0.116
+2018,Wheeler,1-Lubbock,5,21,0.238
+2018,Yoakum,1-Lubbock,1,25,0.04
+2018,Archer,2-Abilene,13,64,0.203
+2018,Baylor,2-Abilene,12,44,0.273
+2018,Brown,2-Abilene,72,337,0.214
+2018,Callahan,2-Abilene,20,106,0.189
+2018,Clay,2-Abilene,16,90,0.178
+2018,Coleman,2-Abilene,12,66,0.182
+2018,Comanche,2-Abilene,14,79,0.177
+2018,Cottle,2-Abilene,3,13,0.231
+2018,Eastland,2-Abilene,28,147,0.19
+2018,Fisher,2-Abilene,2,27,0.074
+2018,Foard,2-Abilene,4,19,0.211
+2018,Hardeman,2-Abilene,4,35,0.114
+2018,Haskell,2-Abilene,7,45,0.156
+2018,Jack,2-Abilene,11,58,0.19
+2018,Jones,2-Abilene,20,143,0.14
+2018,Kent,2-Abilene,0,3,0
+2018,Knox,2-Abilene,11,19,0.579
+2018,Mitchell,2-Abilene,9,44,0.205
+2018,Montague,2-Abilene,37,201,0.184
+2018,Nolan,2-Abilene,19,116,0.164
+2018,Runnels,2-Abilene,12,72,0.167
+2018,Scurry,2-Abilene,22,96,0.229
+2018,Shackelford,2-Abilene,4,17,0.235
+2018,Stephens,2-Abilene,10,88,0.114
+2018,Stonewall,2-Abilene,1,6,0.167
+2018,Taylor,2-Abilene,297,1383,0.215
+2018,Throckmorton,2-Abilene,1,7,0.143
+2018,Wichita,2-Abilene,357,1432,0.249
+2018,Wilbarger,2-Abilene,22,132,0.167
+2018,Young,2-Abilene,24,146,0.164
+2018,Collin,3-Arlington,145,1225,0.118
+2018,Cooke,3-Arlington,6,129,0.047
+2018,Dallas,3-Arlington,1003,7150,0.14
+2018,Denton,3-Arlington,144,1151,0.125
+2018,Ellis,3-Arlington,51,395,0.129
+2018,Erath,3-Arlington,16,135,0.119
+2018,Fannin,3-Arlington,19,160,0.119
+2018,Grayson,3-Arlington,104,681,0.153
+2018,Hood,3-Arlington,35,249,0.141
+2018,Hunt,3-Arlington,64,432,0.148
+2018,Johnson,3-Arlington,74,542,0.137
+2018,Kaufman,3-Arlington,55,343,0.16
+2018,Navarro,3-Arlington,18,211,0.085
+2018,Palo Pinto,3-Arlington,25,170,0.147
+2018,Parker,3-Arlington,71,428,0.166
+2018,Rockwall,3-Arlington,26,172,0.151
+2018,Somervell,3-Arlington,4,29,0.138
+2018,Tarrant,3-Arlington,971,6315,0.154
+2018,Wise,3-Arlington,35,235,0.149
+2018,Anderson,4-Tyler,32,194,0.165
+2018,Bowie,4-Tyler,55,377,0.146
+2018,Camp,4-Tyler,13,69,0.188
+2018,Cass,4-Tyler,12,155,0.077
+2018,Cherokee,4-Tyler,33,295,0.112
+2018,Delta,4-Tyler,1,25,0.04
+2018,Franklin,4-Tyler,13,47,0.277
+2018,Gregg,4-Tyler,54,488,0.111
+2018,Harrison,4-Tyler,22,271,0.081
+2018,Henderson,4-Tyler,80,516,0.155
+2018,Hopkins,4-Tyler,17,151,0.113
+2018,Lamar,4-Tyler,30,247,0.121
+2018,Marion,4-Tyler,9,73,0.123
+2018,Morris,4-Tyler,13,93,0.14
+2018,Panola,4-Tyler,16,96,0.167
+2018,Rains,4-Tyler,5,60,0.083
+2018,Red River,4-Tyler,5,42,0.119
+2018,Rusk,4-Tyler,23,216,0.106
+2018,Smith,4-Tyler,153,969,0.158
+2018,Titus,4-Tyler,14,95,0.147
+2018,Upshur,4-Tyler,29,193,0.15
+2018,Van Zandt,4-Tyler,40,249,0.161
+2018,Wood,4-Tyler,24,239,0.1
+2018,Angelina,5-Beaumont,87,514,0.169
+2018,Hardin,5-Beaumont,19,191,0.099
+2018,Houston,5-Beaumont,22,119,0.185
+2018,Jasper,5-Beaumont,37,227,0.163
+2018,Jefferson,5-Beaumont,209,1431,0.146
+2018,Nacogdoches,5-Beaumont,53,268,0.198
+2018,Newton,5-Beaumont,17,79,0.215
+2018,Orange,5-Beaumont,71,418,0.17
+2018,Polk,5-Beaumont,73,353,0.207
+2018,Sabine,5-Beaumont,13,69,0.188
+2018,San Augustine,5-Beaumont,16,90,0.178
+2018,San Jacinto,5-Beaumont,18,189,0.095
+2018,Shelby,5-Beaumont,27,162,0.167
+2018,Trinity,5-Beaumont,14,106,0.132
+2018,Tyler,5-Beaumont,11,121,0.091
+2018,Austin,6-Houston,11,80,0.138
+2018,Brazoria,6-Houston,114,788,0.145
+2018,Chambers,6-Houston,17,80,0.213
+2018,Colorado,6-Houston,21,84,0.25
+2018,Fort Bend,6-Houston,209,1287,0.162
+2018,Galveston,6-Houston,150,1188,0.126
+2018,Harris,6-Houston,1922,12726,0.151
+2018,Liberty,6-Houston,59,331,0.178
+2018,Matagorda,6-Houston,22,162,0.136
+2018,Montgomery,6-Houston,225,1390,0.162
+2018,Walker,6-Houston,25,170,0.147
+2018,Waller,6-Houston,16,135,0.119
+2018,Wharton,6-Houston,28,151,0.185
+2018,Bastrop,7-Austin,60,329,0.182
+2018,Bell,7-Austin,258,1370,0.188
+2018,Blanco,7-Austin,4,36,0.111
+2018,Bosque,7-Austin,12,92,0.13
+2018,Brazos,7-Austin,58,434,0.134
+2018,Burleson,7-Austin,12,97,0.124
+2018,Burnet,7-Austin,32,175,0.183
+2018,Caldwell,7-Austin,43,194,0.222
+2018,Coryell,7-Austin,39,266,0.147
+2018,Falls,7-Austin,22,112,0.196
+2018,Fayette,7-Austin,12,78,0.154
+2018,Freestone,7-Austin,7,95,0.074
+2018,Grimes,7-Austin,27,141,0.191
+2018,Hamilton,7-Austin,7,49,0.143
+2018,Hays,7-Austin,69,409,0.169
+2018,Hill,7-Austin,30,208,0.144
+2018,Lampasas,7-Austin,17,93,0.183
+2018,Lee,7-Austin,20,72,0.278
+2018,Leon,7-Austin,6,77,0.078
+2018,Limestone,7-Austin,10,103,0.097
+2018,Llano,7-Austin,23,129,0.178
+2018,Madison,7-Austin,6,54,0.111
+2018,McLennan,7-Austin,180,1208,0.149
+2018,Milam,7-Austin,10,119,0.084
+2018,Mills,7-Austin,1,11,0.091
+2018,Robertson,7-Austin,17,86,0.198
+2018,San Saba,7-Austin,2,28,0.071
+2018,Travis,7-Austin,591,3240,0.182
+2018,Washington,7-Austin,15,119,0.126
+2018,Williamson,7-Austin,147,1007,0.146
+2018,Atascosa,8-San Antonio,26,200,0.13
+2018,Bandera,8-San Antonio,20,109,0.183
+2018,Bexar,8-San Antonio,1200,8076,0.149
+2018,Calhoun,8-San Antonio,8,76,0.105
+2018,Comal,8-San Antonio,56,400,0.14
+2018,DeWitt,8-San Antonio,4,64,0.063
+2018,Dimmit,8-San Antonio,5,42,0.119
+2018,Edwards,8-San Antonio,0,8,0
+2018,Frio,8-San Antonio,7,63,0.111
+2018,Gillespie,8-San Antonio,13,108,0.12
+2018,Goliad,8-San Antonio,5,24,0.208
+2018,Gonzales,8-San Antonio,14,105,0.133
+2018,Guadalupe,8-San Antonio,60,441,0.136
+2018,Jackson,8-San Antonio,8,52,0.154
+2018,Karnes,8-San Antonio,1,61,0.016
+2018,Kendall,8-San Antonio,27,128,0.211
+2018,Kerr,8-San Antonio,64,352,0.182
+2018,Kinney,8-San Antonio,4,17,0.235
+2018,La Salle,8-San Antonio,1,21,0.048
+2018,Lavaca,8-San Antonio,7,70,0.1
+2018,Maverick,8-San Antonio,16,133,0.12
+2018,Medina,8-San Antonio,36,206,0.175
+2018,Real,8-San Antonio,1,22,0.045
+2018,Uvalde,8-San Antonio,11,104,0.106
+2018,Val Verde,8-San Antonio,18,185,0.097
+2018,Victoria,8-San Antonio,45,341,0.132
+2018,Wilson,8-San Antonio,11,160,0.069
+2018,Zavala,8-San Antonio,10,50,0.2
+2018,Andrews,9-Midland,5,42,0.119
+2018,Coke,9-Midland,2,26,0.077
+2018,Concho,9-Midland,4,25,0.16
+2018,Crane,9-Midland,2,17,0.118
+2018,Crockett,9-Midland,1,17,0.059
+2018,Dawson,9-Midland,13,103,0.126
+2018,Ector,9-Midland,59,552,0.107
+2018,Gaines,9-Midland,14,58,0.241
+2018,Glasscock,9-Midland,0,2,0
+2018,Howard,9-Midland,27,187,0.144
+2018,Irion,9-Midland,0,4,0
+2018,Kimble,9-Midland,3,43,0.07
+2018,Loving,9-Midland,0,4,0
+2018,Martin,9-Midland,3,23,0.13
+2018,Mason,9-Midland,1,16,0.063
+2018,McCulloch,9-Midland,20,61,0.328
+2018,Menard,9-Midland,2,10,0.2
+2018,Midland,9-Midland,52,416,0.125
+2018,Pecos,9-Midland,11,77,0.143
+2018,Reagan,9-Midland,0,12,0
+2018,Reeves,9-Midland,5,45,0.111
+2018,Schleicher,9-Midland,1,16,0.063
+2018,Sterling,9-Midland,0,1,0
+2018,Sutton,9-Midland,1,14,0.071
+2018,Terrell,9-Midland,0,2,0
+2018,Tom Green,9-Midland,225,1062,0.212
+2018,Upton,9-Midland,2,12,0.167
+2018,Ward,9-Midland,14,66,0.212
+2018,Winkler,9-Midland,3,34,0.088
+2018,Brewster,10-El Paso,20,88,0.227
+2018,Culberson,10-El Paso,2,25,0.08
+2018,El Paso,10-El Paso,467,3417,0.137
+2018,Hudspeth,10-El Paso,2,18,0.111
+2018,Jeff Davis,10-El Paso,0,5,0
+2018,Presidio,10-El Paso,5,46,0.109
+2018,Aransas,11-Edinburg,33,163,0.202
+2018,Bee,11-Edinburg,34,178,0.191
+2018,Brooks,11-Edinburg,8,49,0.163
+2018,Cameron,11-Edinburg,264,1546,0.171
+2018,Duval,11-Edinburg,6,59,0.102
+2018,Hidalgo,11-Edinburg,393,2575,0.153
+2018,Jim Hogg,11-Edinburg,5,26,0.192
+2018,Jim Wells,11-Edinburg,39,229,0.17
+2018,Kenedy,11-Edinburg,0,1,0
+2018,Kleberg,11-Edinburg,19,127,0.15
+2018,Live Oak,11-Edinburg,16,58,0.276
+2018,McMullen,11-Edinburg,0,1,0
+2018,Nueces,11-Edinburg,360,1966,0.183
+2018,Refugio,11-Edinburg,8,22,0.364
+2018,San Patricio,11-Edinburg,55,337,0.163
+2018,Starr,11-Edinburg,30,218,0.138
+2018,Webb,11-Edinburg,72,578,0.125
+2018,Willacy,11-Edinburg,22,99,0.222
+2018,Zapata,11-Edinburg,11,59,0.186
+2018,Out of State,Out of State,7,31,0.226
+2018,None Specified,None Specified,0,1,0
+2017,Armstrong,1-Lubbock,0,4,0
+2017,Bailey,1-Lubbock,10,58,0.172
+2017,Briscoe,1-Lubbock,0,1,0
+2017,Carson,1-Lubbock,4,28,0.143
+2017,Castro,1-Lubbock,5,14,0.357
+2017,Childress,1-Lubbock,11,36,0.306
+2017,Cochran,1-Lubbock,15,73,0.205
+2017,Collingsworth,1-Lubbock,3,13,0.231
+2017,Crosby,1-Lubbock,14,60,0.233
+2017,Dallam,1-Lubbock,0,14,0
+2017,Deaf Smith,1-Lubbock,8,48,0.167
+2017,Dickens,1-Lubbock,2,11,0.182
+2017,Donley,1-Lubbock,8,25,0.32
+2017,Floyd,1-Lubbock,5,40,0.125
+2017,Garza,1-Lubbock,10,46,0.217
+2017,Gray,1-Lubbock,16,121,0.132
+2017,Hale,1-Lubbock,18,155,0.116
+2017,Hall,1-Lubbock,3,26,0.115
+2017,Hansford,1-Lubbock,1,7,0.143
+2017,Hartley,1-Lubbock,0,3,0
+2017,Hemphill,1-Lubbock,2,6,0.333
+2017,Hockley,1-Lubbock,20,125,0.16
+2017,Hutchinson,1-Lubbock,19,125,0.152
+2017,Lamb,1-Lubbock,18,116,0.155
+2017,Lipscomb,1-Lubbock,0,4,0
+2017,Lubbock,1-Lubbock,507,2226,0.228
+2017,Lynn,1-Lubbock,2,37,0.054
+2017,Moore,1-Lubbock,6,63,0.095
+2017,Motley,1-Lubbock,3,16,0.188
+2017,Ochiltree,1-Lubbock,5,25,0.2
+2017,Oldham,1-Lubbock,0,1,0
+2017,Parmer,1-Lubbock,5,29,0.172
+2017,Potter,1-Lubbock,152,804,0.189
+2017,Randall,1-Lubbock,97,424,0.229
+2017,Roberts,1-Lubbock,1,2,0.5
+2017,Sherman,1-Lubbock,0,10,0
+2017,Swisher,1-Lubbock,2,24,0.083
+2017,Terry,1-Lubbock,34,164,0.207
+2017,Wheeler,1-Lubbock,2,18,0.111
+2017,Yoakum,1-Lubbock,5,28,0.179
+2017,Archer,2-Abilene,11,58,0.19
+2017,Baylor,2-Abilene,8,23,0.348
+2017,Brown,2-Abilene,39,283,0.138
+2017,Callahan,2-Abilene,23,107,0.215
+2017,Clay,2-Abilene,12,71,0.169
+2017,Coleman,2-Abilene,19,84,0.226
+2017,Comanche,2-Abilene,15,97,0.155
+2017,Cottle,2-Abilene,7,18,0.389
+2017,Eastland,2-Abilene,34,164,0.207
+2017,Fisher,2-Abilene,4,24,0.167
+2017,Foard,2-Abilene,3,21,0.143
+2017,Hardeman,2-Abilene,6,40,0.15
+2017,Haskell,2-Abilene,8,44,0.182
+2017,Jack,2-Abilene,11,67,0.164
+2017,Jones,2-Abilene,13,127,0.102
+2017,Kent,2-Abilene,1,3,0.333
+2017,Knox,2-Abilene,9,31,0.29
+2017,Mitchell,2-Abilene,12,55,0.218
+2017,Montague,2-Abilene,24,154,0.156
+2017,Nolan,2-Abilene,24,109,0.22
+2017,Runnels,2-Abilene,16,82,0.195
+2017,Scurry,2-Abilene,15,77,0.195
+2017,Shackelford,2-Abilene,3,23,0.13
+2017,Stephens,2-Abilene,14,72,0.194
+2017,Stonewall,2-Abilene,4,9,0.444
+2017,Taylor,2-Abilene,294,1343,0.219
+2017,Throckmorton,2-Abilene,2,7,0.286
+2017,Wichita,2-Abilene,288,1286,0.224
+2017,Wilbarger,2-Abilene,34,162,0.21
+2017,Young,2-Abilene,29,194,0.149
+2017,Collin,3-Arlington,137,1108,0.124
+2017,Cooke,3-Arlington,26,126,0.206
+2017,Dallas,3-Arlington,1033,7072,0.146
+2017,Denton,3-Arlington,116,1213,0.096
+2017,Ellis,3-Arlington,56,407,0.138
+2017,Erath,3-Arlington,19,113,0.168
+2017,Fannin,3-Arlington,38,185,0.205
+2017,Grayson,3-Arlington,90,663,0.136
+2017,Hood,3-Arlington,44,221,0.199
+2017,Hunt,3-Arlington,81,481,0.168
+2017,Johnson,3-Arlington,75,519,0.145
+2017,Kaufman,3-Arlington,52,309,0.168
+2017,Navarro,3-Arlington,28,221,0.127
+2017,Palo Pinto,3-Arlington,25,162,0.154
+2017,Parker,3-Arlington,56,399,0.14
+2017,Rockwall,3-Arlington,19,165,0.115
+2017,Somervell,3-Arlington,3,17,0.176
+2017,Tarrant,3-Arlington,856,5808,0.147
+2017,Wise,3-Arlington,40,209,0.191
+2017,Anderson,4-Tyler,33,221,0.149
+2017,Bowie,4-Tyler,44,312,0.141
+2017,Cherokee,4-Tyler,58,323,0.18
+2017,Delta,4-Tyler,4,31,0.129
+2017,Franklin,4-Tyler,3,41,0.073
+2017,Gregg,4-Tyler,62,492,0.126
+2017,Harrison,4-Tyler,25,255,0.098
+2017,Henderson,4-Tyler,81,495,0.164
+2017,Hopkins,4-Tyler,37,180,0.206
+2017,Lamar,4-Tyler,49,277,0.177
+2017,Marion,4-Tyler,4,65,0.062
+2017,Morris,4-Tyler,19,102,0.186
+2017,Panola,4-Tyler,14,111,0.126
+2017,Rains,4-Tyler,9,65,0.138
+2017,Red River,4-Tyler,12,62,0.194
+2017,Rusk,4-Tyler,28,175,0.16
+2017,Smith,4-Tyler,150,985,0.152
+2017,Titus,4-Tyler,12,93,0.129
+2017,Upshur,4-Tyler,28,178,0.157
+2017,Van Zandt,4-Tyler,37,271,0.137
+2017,Wood,4-Tyler,28,242,0.116
+2017,Angelina,5-Beaumont,85,478,0.178
+2017,Hardin,5-Beaumont,36,235,0.153
+2017,Houston,5-Beaumont,22,130,0.169
+2017,Jasper,5-Beaumont,29,242,0.12
+2017,Jefferson,5-Beaumont,221,1418,0.156
+2017,Nacogdoches,5-Beaumont,43,250,0.172
+2017,Newton,5-Beaumont,8,72,0.111
+2017,Orange,5-Beaumont,87,494,0.176
+2017,Polk,5-Beaumont,43,341,0.126
+2017,Sabine,5-Beaumont,13,70,0.186
+2017,San Augustine,5-Beaumont,16,102,0.157
+2017,San Jacinto,5-Beaumont,24,193,0.124
+2017,Shelby,5-Beaumont,28,150,0.187
+2017,Trinity,5-Beaumont,16,116,0.138
+2017,Tyler,5-Beaumont,22,114,0.193
+2017,Austin,6-Houston,13,107,0.121
+2017,Brazoria,6-Houston,115,764,0.151
+2017,Chambers,6-Houston,23,101,0.228
+2017,Colorado,6-Houston,12,76,0.158
+2017,Fort Bend,6-Houston,145,1085,0.134
+2017,Galveston,6-Houston,209,1288,0.162
+2017,Harris,6-Houston,1979,12510,0.158
+2017,Liberty,6-Houston,78,407,0.192
+2017,Matagorda,6-Houston,30,158,0.19
+2017,Montgomery,6-Houston,187,1357,0.138
+2017,Walker,6-Houston,26,179,0.145
+2017,Waller,6-Houston,27,121,0.223
+2017,Wharton,6-Houston,26,139,0.187
+2017,Bastrop,7-Austin,57,322,0.177
+2017,Bell,7-Austin,226,1283,0.176
+2017,Blanco,7-Austin,5,29,0.172
+2017,Bosque,7-Austin,12,75,0.16
+2017,Brazos,7-Austin,75,400,0.188
+2017,Burleson,7-Austin,16,89,0.18
+2017,Burnet,7-Austin,27,170,0.159
+2017,Caldwell,7-Austin,31,145,0.214
+2017,Coryell,7-Austin,47,246,0.191
+2017,Falls,7-Austin,11,90,0.122
+2017,Fayette,7-Austin,16,94,0.17
+2017,Freestone,7-Austin,14,94,0.149
+2017,Grimes,7-Austin,16,107,0.15
+2017,Hamilton,7-Austin,7,40,0.175
+2017,Hays,7-Austin,57,357,0.16
+2017,Hill,7-Austin,32,165,0.194
+2017,Lampasas,7-Austin,20,110,0.182
+2017,Lee,7-Austin,15,63,0.238
+2017,Leon,7-Austin,11,74,0.149
+2017,Limestone,7-Austin,15,128,0.117
+2017,Llano,7-Austin,13,114,0.114
+2017,Madison,7-Austin,6,61,0.098
+2017,McLennan,7-Austin,174,1112,0.156
+2017,Milam,7-Austin,16,97,0.165
+2017,Mills,7-Austin,3,27,0.111
+2017,Robertson,7-Austin,17,83,0.205
+2017,San Saba,7-Austin,8,25,0.32
+2017,Travis,7-Austin,565,3222,0.175
+2017,Washington,7-Austin,14,115,0.122
+2017,Williamson,7-Austin,156,875,0.178
+2017,Atascosa,8-San Antonio,25,201,0.124
+2017,Bandera,8-San Antonio,12,111,0.108
+2017,Bexar,8-San Antonio,1247,7995,0.156
+2017,Calhoun,8-San Antonio,10,75,0.133
+2017,Comal,8-San Antonio,53,404,0.131
+2017,DeWitt,8-San Antonio,9,86,0.105
+2017,Dimmit,8-San Antonio,7,32,0.219
+2017,Edwards,8-San Antonio,1,6,0.167
+2017,Frio,8-San Antonio,9,54,0.167
+2017,Gillespie,8-San Antonio,10,81,0.123
+2017,Goliad,8-San Antonio,0,25,0
+2017,Gonzales,8-San Antonio,10,81,0.123
+2017,Guadalupe,8-San Antonio,71,442,0.161
+2017,Jackson,8-San Antonio,3,34,0.088
+2017,Karnes,8-San Antonio,8,53,0.151
+2017,Kendall,8-San Antonio,16,104,0.154
+2017,Kerr,8-San Antonio,44,336,0.131
+2017,Kinney,8-San Antonio,3,13,0.231
+2017,La Salle,8-San Antonio,3,38,0.079
+2017,Lavaca,8-San Antonio,10,48,0.208
+2017,Maverick,8-San Antonio,16,144,0.111
+2017,Medina,8-San Antonio,25,187,0.134
+2017,Real,8-San Antonio,6,27,0.222
+2017,Uvalde,8-San Antonio,18,92,0.196
+2017,Val Verde,8-San Antonio,25,150,0.167
+2017,Victoria,8-San Antonio,34,331,0.103
+2017,Wilson,8-San Antonio,30,143,0.21
+2017,Zavala,8-San Antonio,5,43,0.116
+2017,Andrews,9-Midland,4,35,0.114
+2017,Borden,9-Midland,0,3,0
+2017,Coke,9-Midland,0,22,0
+2017,Concho,9-Midland,1,16,0.063
+2017,Crane,9-Midland,1,16,0.063
+2017,Crockett,9-Midland,6,17,0.353
+2017,Dawson,9-Midland,16,100,0.16
+2017,Ector,9-Midland,97,561,0.173
+2017,Gaines,9-Midland,5,48,0.104
+2017,Howard,9-Midland,43,221,0.195
+2017,Irion,9-Midland,0,2,0
+2017,Kimble,9-Midland,4,20,0.2
+2017,Loving,9-Midland,0,2,0
+2017,Martin,9-Midland,4,24,0.167
+2017,Mason,9-Midland,3,21,0.143
+2017,McCulloch,9-Midland,8,55,0.145
+2017,Menard,9-Midland,2,24,0.083
+2017,Midland,9-Midland,71,400,0.178
+2017,Pecos,9-Midland,4,61,0.066
+2017,Reagan,9-Midland,2,8,0.25
+2017,Reeves,9-Midland,2,45,0.044
+2017,Schleicher,9-Midland,3,13,0.231
+2017,Sterling,9-Midland,0,2,0
+2017,Sutton,9-Midland,4,16,0.25
+2017,Terrell,9-Midland,0,6,0
+2017,Tom Green,9-Midland,255,1184,0.215
+2017,Upton,9-Midland,4,15,0.267
+2017,Ward,9-Midland,5,43,0.116
+2017,Winkler,9-Midland,4,24,0.167
+2017,Brewster,10-El Paso,18,69,0.261
+2017,Culberson,10-El Paso,3,12,0.25
+2017,El Paso,10-El Paso,481,3262,0.147
+2017,Hudspeth,10-El Paso,3,15,0.2
+2017,Jeff Davis,10-El Paso,1,12,0.083
+2017,Presidio,10-El Paso,6,35,0.171
+2017,Aransas,11-Edinburg,42,212,0.198
+2017,Bee,11-Edinburg,22,162,0.136
+2017,Brooks,11-Edinburg,4,52,0.077
+2017,Cameron,11-Edinburg,227,1606,0.141
+2017,Duval,11-Edinburg,5,65,0.077
+2017,Hidalgo,11-Edinburg,405,2462,0.165
+2017,Jim Hogg,11-Edinburg,5,43,0.116
+2017,Jim Wells,11-Edinburg,28,233,0.12
+2017,Kenedy,11-Edinburg,0,1,0
+2017,Kleberg,11-Edinburg,20,151,0.132
+2017,Live Oak,11-Edinburg,7,54,0.13
+2017,McMullen,11-Edinburg,0,7,0
+2017,Nueces,11-Edinburg,328,1917,0.171
+2017,Refugio,11-Edinburg,2,36,0.056
+2017,San Patricio,11-Edinburg,54,368,0.147
+2017,Starr,11-Edinburg,21,181,0.116
+2017,Webb,11-Edinburg,90,621,0.145
+2017,Willacy,11-Edinburg,20,115,0.174
+2017,Zapata,11-Edinburg,10,44,0.227
+2017,Out of State,Out of State,9,51,0.176
+2017,None Specified,None Specified,0,3,0
+2016,Armstrong,1-Lubbock,0,8,0
+2016,Bailey,1-Lubbock,12,46,0.261
+2016,Carson,1-Lubbock,1,21,0.048
+2016,Castro,1-Lubbock,3,12,0.25
+2016,Childress,1-Lubbock,5,40,0.125
+2016,Cochran,1-Lubbock,29,79,0.367
+2016,Collingsworth,1-Lubbock,4,20,0.2
+2016,Crosby,1-Lubbock,10,67,0.149
+2016,Dallam,1-Lubbock,1,20,0.05
+2016,Deaf Smith,1-Lubbock,6,57,0.105
+2016,Dickens,1-Lubbock,2,15,0.133
+2016,Donley,1-Lubbock,6,20,0.3
+2016,Floyd,1-Lubbock,11,56,0.196
+2016,Garza,1-Lubbock,13,58,0.224
+2016,Gray,1-Lubbock,22,104,0.212
+2016,Hale,1-Lubbock,24,146,0.164
+2016,Hall,1-Lubbock,1,18,0.056
+2016,Hansford,1-Lubbock,1,10,0.1
+2016,Hartley,1-Lubbock,3,7,0.429
+2016,Hemphill,1-Lubbock,1,4,0.25
+2016,Hockley,1-Lubbock,26,126,0.206
+2016,Hutchinson,1-Lubbock,14,77,0.182
+2016,Lamb,1-Lubbock,23,124,0.185
+2016,Lipscomb,1-Lubbock,0,4,0
+2016,Lubbock,1-Lubbock,465,2113,0.22
+2016,Lynn,1-Lubbock,9,45,0.2
+2016,Moore,1-Lubbock,7,59,0.119
+2016,Motley,1-Lubbock,6,20,0.3
+2016,Ochiltree,1-Lubbock,4,26,0.154
+2016,Oldham,1-Lubbock,2,2,1
+2016,Parmer,1-Lubbock,5,23,0.217
+2016,Potter,1-Lubbock,133,785,0.169
+2016,Randall,1-Lubbock,84,413,0.203
+2016,Roberts,1-Lubbock,0,2,0
+2016,Sherman,1-Lubbock,0,1,0
+2016,Swisher,1-Lubbock,1,42,0.024
+2016,Terry,1-Lubbock,37,151,0.245
+2016,Wheeler,1-Lubbock,0,21,0
+2016,Yoakum,1-Lubbock,1,17,0.059
+2016,Archer,2-Abilene,11,42,0.262
+2016,Baylor,2-Abilene,5,42,0.119
+2016,Brown,2-Abilene,39,261,0.149
+2016,Callahan,2-Abilene,18,98,0.184
+2016,Clay,2-Abilene,16,79,0.203
+2016,Coleman,2-Abilene,11,85,0.129
+2016,Comanche,2-Abilene,19,84,0.226
+2016,Cottle,2-Abilene,3,8,0.375
+2016,Eastland,2-Abilene,22,147,0.15
+2016,Fisher,2-Abilene,2,22,0.091
+2016,Foard,2-Abilene,4,17,0.235
+2016,Hardeman,2-Abilene,8,32,0.25
+2016,Haskell,2-Abilene,6,39,0.154
+2016,Jack,2-Abilene,5,39,0.128
+2016,Jones,2-Abilene,11,87,0.126
+2016,Kent,2-Abilene,1,1,1
+2016,Knox,2-Abilene,2,30,0.067
+2016,Mitchell,2-Abilene,9,43,0.209
+2016,Montague,2-Abilene,27,172,0.157
+2016,Nolan,2-Abilene,29,143,0.203
+2016,Runnels,2-Abilene,9,77,0.117
+2016,Scurry,2-Abilene,12,89,0.135
+2016,Shackelford,2-Abilene,3,17,0.176
+2016,Stephens,2-Abilene,12,73,0.164
+2016,Stonewall,2-Abilene,4,9,0.444
+2016,Taylor,2-Abilene,260,1190,0.218
+2016,Throckmorton,2-Abilene,0,8,0
+2016,Wichita,2-Abilene,247,1290,0.191
+2016,Wilbarger,2-Abilene,16,109,0.147
+2016,Young,2-Abilene,31,180,0.172
+2016,Collin,3-Arlington,135,1022,0.132
+2016,Cooke,3-Arlington,14,132,0.106
+2016,Dallas,3-Arlington,1049,6704,0.156
+2016,Denton,3-Arlington,125,1084,0.115
+2016,Ellis,3-Arlington,33,323,0.102
+2016,Erath,3-Arlington,10,107,0.093
+2016,Fannin,3-Arlington,18,142,0.127
+2016,Grayson,3-Arlington,72,627,0.115
+2016,Hood,3-Arlington,34,229,0.148
+2016,Hunt,3-Arlington,70,449,0.156
+2016,Johnson,3-Arlington,62,504,0.123
+2016,Kaufman,3-Arlington,45,346,0.13
+2016,Navarro,3-Arlington,30,217,0.138
+2016,Palo Pinto,3-Arlington,20,172,0.116
+2016,Parker,3-Arlington,65,386,0.168
+2016,Rockwall,3-Arlington,15,125,0.12
+2016,Somervell,3-Arlington,4,23,0.174
+2016,Tarrant,3-Arlington,814,5126,0.159
+2016,Wise,3-Arlington,19,193,0.098
+2016,Anderson,4-Tyler,42,248,0.169
+2016,Bowie,4-Tyler,38,279,0.136
+2016,Camp,4-Tyler,12,64,0.188
+2016,Cass,4-Tyler,13,105,0.124
+2016,Cherokee,4-Tyler,37,276,0.134
+2016,Delta,4-Tyler,3,23,0.13
+2016,Franklin,4-Tyler,7,41,0.171
+2016,Gregg,4-Tyler,65,493,0.132
+2016,Harrison,4-Tyler,26,242,0.107
+2016,Henderson,4-Tyler,76,469,0.162
+2016,Hopkins,4-Tyler,32,179,0.179
+2016,Lamar,4-Tyler,29,208,0.139
+2016,Marion,4-Tyler,4,68,0.059
+2016,Morris,4-Tyler,13,91,0.143
+2016,Panola,4-Tyler,8,84,0.095
+2016,Rains,4-Tyler,9,60,0.15
+2016,Red River,4-Tyler,7,55,0.127
+2016,Rusk,4-Tyler,22,182,0.121
+2016,Smith,4-Tyler,161,963,0.167
+2016,Titus,4-Tyler,17,98,0.173
+2016,Upshur,4-Tyler,26,176,0.148
+2016,Van Zandt,4-Tyler,45,241,0.187
+2016,Wood,4-Tyler,32,228,0.14
+2016,Angelina,5-Beaumont,64,410,0.156
+2016,Hardin,5-Beaumont,35,213,0.164
+2016,Houston,5-Beaumont,10,110,0.091
+2016,Jasper,5-Beaumont,35,210,0.167
+2016,Jefferson,5-Beaumont,211,1261,0.167
+2016,Nacogdoches,5-Beaumont,41,231,0.177
+2016,Newton,5-Beaumont,8,72,0.111
+2016,Orange,5-Beaumont,65,456,0.143
+2016,Polk,5-Beaumont,52,312,0.167
+2016,Sabine,5-Beaumont,4,74,0.054
+2016,San Augustine,5-Beaumont,10,82,0.122
+2016,San Jacinto,5-Beaumont,20,208,0.096
+2016,Shelby,5-Beaumont,16,127,0.126
+2016,Trinity,5-Beaumont,12,105,0.114
+2016,Tyler,5-Beaumont,13,99,0.131
+2016,Austin,6-Houston,5,78,0.064
+2016,Brazoria,6-Houston,93,722,0.129
+2016,Chambers,6-Houston,15,82,0.183
+2016,Colorado,6-Houston,6,67,0.09
+2016,Fort Bend,6-Houston,124,933,0.133
+2016,Galveston,6-Houston,167,1088,0.153
+2016,Harris,6-Houston,1706,11462,0.149
+2016,Liberty,6-Houston,62,355,0.175
+2016,Matagorda,6-Houston,17,145,0.117
+2016,Montgomery,6-Houston,205,1311,0.156
+2016,Walker,6-Houston,12,166,0.072
+2016,Waller,6-Houston,14,95,0.147
+2016,Wharton,6-Houston,15,134,0.112
+2016,Bastrop,7-Austin,41,312,0.131
+2016,Bell,7-Austin,199,1250,0.159
+2016,Blanco,7-Austin,4,26,0.154
+2016,Bosque,7-Austin,13,69,0.188
+2016,Brazos,7-Austin,45,364,0.124
+2016,Burleson,7-Austin,13,80,0.163
+2016,Burnet,7-Austin,19,158,0.12
+2016,Caldwell,7-Austin,31,162,0.191
+2016,Coryell,7-Austin,31,211,0.147
+2016,Falls,7-Austin,9,90,0.1
+2016,Fayette,7-Austin,13,77,0.169
+2016,Freestone,7-Austin,13,79,0.165
+2016,Grimes,7-Austin,14,72,0.194
+2016,Hamilton,7-Austin,4,31,0.129
+2016,Hays,7-Austin,63,383,0.164
+2016,Hill,7-Austin,36,183,0.197
+2016,Lampasas,7-Austin,15,94,0.16
+2016,Lee,7-Austin,4,58,0.069
+2016,Leon,7-Austin,11,86,0.128
+2016,Limestone,7-Austin,19,121,0.157
+2016,Llano,7-Austin,8,96,0.083
+2016,Madison,7-Austin,6,51,0.118
+2016,McLennan,7-Austin,141,1070,0.132
+2016,Milam,7-Austin,19,129,0.147
+2016,Mills,7-Austin,3,17,0.176
+2016,Robertson,7-Austin,20,83,0.241
+2016,San Saba,7-Austin,4,25,0.16
+2016,Travis,7-Austin,457,2952,0.155
+2016,Washington,7-Austin,11,121,0.091
+2016,Williamson,7-Austin,124,826,0.15
+2016,Atascosa,8-San Antonio,30,179,0.168
+2016,Bandera,8-San Antonio,18,110,0.164
+2016,Bexar,8-San Antonio,1012,7022,0.144
+2016,Calhoun,8-San Antonio,17,79,0.215
+2016,Comal,8-San Antonio,48,379,0.127
+2016,DeWitt,8-San Antonio,12,81,0.148
+2016,Dimmit,8-San Antonio,7,38,0.184
+2016,Edwards,8-San Antonio,0,4,0
+2016,Frio,8-San Antonio,12,67,0.179
+2016,Gillespie,8-San Antonio,17,80,0.213
+2016,Goliad,8-San Antonio,4,21,0.19
+2016,Gonzales,8-San Antonio,9,72,0.125
+2016,Guadalupe,8-San Antonio,67,387,0.173
+2016,Jackson,8-San Antonio,5,30,0.167
+2016,Karnes,8-San Antonio,10,42,0.238
+2016,Kendall,8-San Antonio,10,78,0.128
+2016,Kerr,8-San Antonio,51,292,0.175
+2016,Kinney,8-San Antonio,1,4,0.25
+2016,La Salle,8-San Antonio,9,28,0.321
+2016,Lavaca,8-San Antonio,10,50,0.2
+2016,Maverick,8-San Antonio,15,140,0.107
+2016,Medina,8-San Antonio,20,184,0.109
+2016,Real,8-San Antonio,0,18,0
+2016,Uvalde,8-San Antonio,12,76,0.158
+2016,Val Verde,8-San Antonio,23,144,0.16
+2016,Victoria,8-San Antonio,42,308,0.136
+2016,Wilson,8-San Antonio,13,134,0.097
+2016,Zavala,8-San Antonio,8,55,0.145
+2016,Andrews,9-Midland,6,37,0.162
+2016,Borden,9-Midland,0,1,0
+2016,Coke,9-Midland,1,25,0.04
+2016,Concho,9-Midland,2,10,0.2
+2016,Crane,9-Midland,4,9,0.444
+2016,Crockett,9-Midland,3,10,0.3
+2016,Dawson,9-Midland,9,98,0.092
+2016,Ector,9-Midland,90,558,0.161
+2016,Gaines,9-Midland,4,25,0.16
+2016,Glasscock,9-Midland,0,1,0
+2016,Howard,9-Midland,30,185,0.162
+2016,Irion,9-Midland,1,3,0.333
+2016,Kimble,9-Midland,10,29,0.345
+2016,Martin,9-Midland,0,13,0
+2016,Mason,9-Midland,3,16,0.188
+2016,McCulloch,9-Midland,8,61,0.131
+2016,Menard,9-Midland,2,10,0.2
+2016,Midland,9-Midland,70,397,0.176
+2016,Pecos,9-Midland,11,59,0.186
+2016,Reagan,9-Midland,1,7,0.143
+2016,Reeves,9-Midland,4,56,0.071
+2016,Schleicher,9-Midland,4,12,0.333
+2016,Sterling,9-Midland,2,5,0.4
+2016,Sutton,9-Midland,7,17,0.412
+2016,Terrell,9-Midland,0,1,0
+2016,Tom Green,9-Midland,178,917,0.194
+2016,Upton,9-Midland,3,9,0.333
+2016,Ward,9-Midland,11,59,0.186
+2016,Winkler,9-Midland,4,29,0.138
+2016,Brewster,10-El Paso,20,84,0.238
+2016,Culberson,10-El Paso,1,17,0.059
+2016,El Paso,10-El Paso,398,2936,0.136
+2016,Hudspeth,10-El Paso,0,25,0
+2016,Jeff Davis,10-El Paso,2,8,0.25
+2016,Presidio,10-El Paso,3,28,0.107
+2016,Aransas,11-Edinburg,31,168,0.185
+2016,Bee,11-Edinburg,21,138,0.152
+2016,Brooks,11-Edinburg,7,60,0.117
+2016,Cameron,11-Edinburg,215,1358,0.158
+2016,Duval,11-Edinburg,8,69,0.116
+2016,Hidalgo,11-Edinburg,313,2159,0.145
+2016,Jim Hogg,11-Edinburg,4,21,0.19
+2016,Jim Wells,11-Edinburg,32,193,0.166
+2016,Kleberg,11-Edinburg,18,120,0.15
+2016,Live Oak,11-Edinburg,7,51,0.137
+2016,McMullen,11-Edinburg,0,4,0
+2016,Nueces,11-Edinburg,283,1772,0.16
+2016,Refugio,11-Edinburg,6,31,0.194
+2016,San Patricio,11-Edinburg,52,324,0.16
+2016,Starr,11-Edinburg,13,164,0.079
+2016,Webb,11-Edinburg,61,513,0.119
+2016,Willacy,11-Edinburg,22,116,0.19
+2016,Zapata,11-Edinburg,6,38,0.158
+2016,Out of State,Out of State,3,57,0.053
+2015,Armstrong,1-Lubbock,0,3,0
+2015,Bailey,1-Lubbock,10,70,0.143
+2015,Briscoe,1-Lubbock,0,3,0
+2015,Carson,1-Lubbock,1,17,0.059
+2015,Castro,1-Lubbock,4,17,0.235
+2015,Childress,1-Lubbock,6,42,0.143
+2015,Cochran,1-Lubbock,22,73,0.301
+2015,Collingsworth,1-Lubbock,1,16,0.063
+2015,Crosby,1-Lubbock,8,48,0.167
+2015,Dallam,1-Lubbock,3,13,0.231
+2015,Deaf Smith,1-Lubbock,8,62,0.129
+2015,Dickens,1-Lubbock,4,24,0.167
+2015,Donley,1-Lubbock,6,21,0.286
+2015,Floyd,1-Lubbock,11,46,0.239
+2015,Garza,1-Lubbock,10,39,0.256
+2015,Gray,1-Lubbock,16,114,0.14
+2015,Hale,1-Lubbock,12,151,0.079
+2015,Hall,1-Lubbock,3,20,0.15
+2015,Hansford,1-Lubbock,0,11,0
+2015,Hartley,1-Lubbock,1,11,0.091
+2015,Hemphill,1-Lubbock,0,4,0
+2015,Hockley,1-Lubbock,25,133,0.188
+2015,Hutchinson,1-Lubbock,12,102,0.118
+2015,Lamb,1-Lubbock,32,144,0.222
+2015,Lipscomb,1-Lubbock,0,6,0
+2015,Lubbock,1-Lubbock,510,2060,0.248
+2015,Lynn,1-Lubbock,7,43,0.163
+2015,Moore,1-Lubbock,6,52,0.115
+2015,Motley,1-Lubbock,2,13,0.154
+2015,Ochiltree,1-Lubbock,4,21,0.19
+2015,Oldham,1-Lubbock,1,5,0.2
+2015,Parmer,1-Lubbock,0,16,0
+2015,Potter,1-Lubbock,148,746,0.198
+2015,Randall,1-Lubbock,70,403,0.174
+2015,Roberts,1-Lubbock,0,1,0
+2015,Sherman,1-Lubbock,0,5,0
+2015,Swisher,1-Lubbock,6,36,0.167
+2015,Terry,1-Lubbock,35,153,0.229
+2015,Wheeler,1-Lubbock,0,8,0
+2015,Yoakum,1-Lubbock,7,28,0.25
+2015,Archer,2-Abilene,18,63,0.286
+2015,Baylor,2-Abilene,4,35,0.114
+2015,Brown,2-Abilene,56,273,0.205
+2015,Callahan,2-Abilene,24,94,0.255
+2015,Clay,2-Abilene,16,70,0.229
+2015,Coleman,2-Abilene,19,75,0.253
+2015,Comanche,2-Abilene,16,87,0.184
+2015,Cottle,2-Abilene,1,12,0.083
+2015,Eastland,2-Abilene,32,161,0.199
+2015,Fisher,2-Abilene,0,13,0
+2015,Foard,2-Abilene,3,18,0.167
+2015,Hardeman,2-Abilene,4,33,0.121
+2015,Haskell,2-Abilene,8,46,0.174
+2015,Jack,2-Abilene,13,55,0.236
+2015,Jones,2-Abilene,18,96,0.188
+2015,Kent,2-Abilene,0,5,0
+2015,Knox,2-Abilene,3,25,0.12
+2015,Mitchell,2-Abilene,4,41,0.098
+2015,Montague,2-Abilene,30,165,0.182
+2015,Nolan,2-Abilene,27,120,0.225
+2015,Runnels,2-Abilene,16,73,0.219
+2015,Scurry,2-Abilene,8,76,0.105
+2015,Shackelford,2-Abilene,6,27,0.222
+2015,Stephens,2-Abilene,17,80,0.213
+2015,Stonewall,2-Abilene,2,4,0.5
+2015,Taylor,2-Abilene,226,1180,0.192
+2015,Throckmorton,2-Abilene,0,11,0
+2015,Wichita,2-Abilene,271,1301,0.208
+2015,Wilbarger,2-Abilene,13,109,0.119
+2015,Young,2-Abilene,48,182,0.264
+2015,Collin,3-Arlington,128,990,0.129
+2015,Cooke,3-Arlington,12,136,0.088
+2015,Dallas,3-Arlington,1133,7040,0.161
+2015,Denton,3-Arlington,131,946,0.138
+2015,Ellis,3-Arlington,45,314,0.143
+2015,Erath,3-Arlington,8,84,0.095
+2015,Fannin,3-Arlington,22,179,0.123
+2015,Grayson,3-Arlington,67,584,0.115
+2015,Hood,3-Arlington,34,216,0.157
+2015,Hunt,3-Arlington,81,443,0.183
+2015,Johnson,3-Arlington,79,471,0.168
+2015,Kaufman,3-Arlington,51,289,0.176
+2015,Navarro,3-Arlington,19,189,0.101
+2015,Palo Pinto,3-Arlington,21,173,0.121
+2015,Parker,3-Arlington,57,331,0.172
+2015,Rockwall,3-Arlington,20,139,0.144
+2015,Somervell,3-Arlington,5,17,0.294
+2015,Tarrant,3-Arlington,818,4953,0.165
+2015,Wise,3-Arlington,35,174,0.201
+2015,Anderson,4-Tyler,31,231,0.134
+2015,Bowie,4-Tyler,38,291,0.131
+2015,Camp,4-Tyler,14,58,0.241
+2015,Cass,4-Tyler,17,114,0.149
+2015,Cherokee,4-Tyler,45,315,0.143
+2015,Delta,4-Tyler,6,27,0.222
+2015,Franklin,4-Tyler,5,38,0.132
+2015,Gregg,4-Tyler,57,480,0.119
+2015,Harrison,4-Tyler,24,236,0.102
+2015,Henderson,4-Tyler,68,474,0.143
+2015,Hopkins,4-Tyler,27,158,0.171
+2015,Lamar,4-Tyler,48,294,0.163
+2015,Marion,4-Tyler,13,70,0.186
+2015,Morris,4-Tyler,9,68,0.132
+2015,Panola,4-Tyler,15,93,0.161
+2015,Rains,4-Tyler,9,47,0.191
+2015,Red River,4-Tyler,7,63,0.111
+2015,Rusk,4-Tyler,19,165,0.115
+2015,Smith,4-Tyler,143,951,0.15
+2015,Titus,4-Tyler,10,80,0.125
+2015,Upshur,4-Tyler,19,184,0.103
+2015,Van Zandt,4-Tyler,52,253,0.206
+2015,Wood,4-Tyler,26,226,0.115
+2015,Angelina,5-Beaumont,65,395,0.165
+2015,Hardin,5-Beaumont,39,197,0.198
+2015,Houston,5-Beaumont,28,125,0.224
+2015,Jasper,5-Beaumont,39,223,0.175
+2015,Jefferson,5-Beaumont,221,1333,0.166
+2015,Nacogdoches,5-Beaumont,55,235,0.234
+2015,Newton,5-Beaumont,16,76,0.211
+2015,Orange,5-Beaumont,55,393,0.14
+2015,Polk,5-Beaumont,67,339,0.198
+2015,Sabine,5-Beaumont,8,63,0.127
+2015,San Augustine,5-Beaumont,8,74,0.108
+2015,San Jacinto,5-Beaumont,38,192,0.198
+2015,Shelby,5-Beaumont,22,114,0.193
+2015,Trinity,5-Beaumont,22,114,0.193
+2015,Tyler,5-Beaumont,13,102,0.127
+2015,Austin,6-Houston,19,116,0.164
+2015,Brazoria,6-Houston,84,683,0.123
+2015,Chambers,6-Houston,17,98,0.173
+2015,Colorado,6-Houston,7,59,0.119
+2015,Fort Bend,6-Houston,109,897,0.122
+2015,Galveston,6-Houston,172,1092,0.158
+2015,Harris,6-Houston,1788,11365,0.157
+2015,Liberty,6-Houston,54,322,0.168
+2015,Matagorda,6-Houston,17,126,0.135
+2015,Montgomery,6-Houston,199,1272,0.156
+2015,Walker,6-Houston,31,131,0.237
+2015,Waller,6-Houston,15,120,0.125
+2015,Wharton,6-Houston,21,128,0.164
+2015,Bastrop,7-Austin,49,306,0.16
+2015,Bell,7-Austin,201,1243,0.162
+2015,Blanco,7-Austin,4,26,0.154
+2015,Bosque,7-Austin,16,74,0.216
+2015,Brazos,7-Austin,45,386,0.117
+2015,Burleson,7-Austin,9,61,0.148
+2015,Burnet,7-Austin,16,128,0.125
+2015,Caldwell,7-Austin,44,196,0.224
+2015,Coryell,7-Austin,35,243,0.144
+2015,Falls,7-Austin,7,89,0.079
+2015,Fayette,7-Austin,9,81,0.111
+2015,Freestone,7-Austin,13,97,0.134
+2015,Grimes,7-Austin,15,91,0.165
+2015,Hamilton,7-Austin,4,40,0.1
+2015,Hays,7-Austin,73,357,0.204
+2015,Hill,7-Austin,42,189,0.222
+2015,Lampasas,7-Austin,12,91,0.132
+2015,Lee,7-Austin,7,55,0.127
+2015,Leon,7-Austin,5,57,0.088
+2015,Limestone,7-Austin,25,132,0.189
+2015,Llano,7-Austin,21,121,0.174
+2015,Madison,7-Austin,7,50,0.14
+2015,McLennan,7-Austin,176,1160,0.152
+2015,Milam,7-Austin,24,106,0.226
+2015,Mills,7-Austin,2,14,0.143
+2015,Robertson,7-Austin,8,57,0.14
+2015,San Saba,7-Austin,3,16,0.188
+2015,Travis,7-Austin,542,3089,0.175
+2015,Washington,7-Austin,15,101,0.149
+2015,Williamson,7-Austin,132,784,0.168
+2015,Atascosa,8-San Antonio,27,162,0.167
+2015,Bandera,8-San Antonio,15,103,0.146
+2015,Bexar,8-San Antonio,1172,7283,0.161
+2015,Calhoun,8-San Antonio,12,98,0.122
+2015,Comal,8-San Antonio,50,330,0.152
+2015,DeWitt,8-San Antonio,22,87,0.253
+2015,Dimmit,8-San Antonio,3,40,0.075
+2015,Edwards,8-San Antonio,0,5,0
+2015,Frio,8-San Antonio,10,66,0.152
+2015,Gillespie,8-San Antonio,11,65,0.169
+2015,Goliad,8-San Antonio,4,40,0.1
+2015,Gonzales,8-San Antonio,15,77,0.195
+2015,Guadalupe,8-San Antonio,54,366,0.148
+2015,Jackson,8-San Antonio,6,47,0.128
+2015,Karnes,8-San Antonio,5,46,0.109
+2015,Kendall,8-San Antonio,6,87,0.069
+2015,Kerr,8-San Antonio,30,224,0.134
+2015,Kinney,8-San Antonio,1,11,0.091
+2015,La Salle,8-San Antonio,4,23,0.174
+2015,Lavaca,8-San Antonio,7,40,0.175
+2015,Maverick,8-San Antonio,23,135,0.17
+2015,Medina,8-San Antonio,21,147,0.143
+2015,Real,8-San Antonio,0,31,0
+2015,Uvalde,8-San Antonio,17,95,0.179
+2015,Val Verde,8-San Antonio,22,120,0.183
+2015,Victoria,8-San Antonio,51,338,0.151
+2015,Wilson,8-San Antonio,15,112,0.134
+2015,Zavala,8-San Antonio,5,57,0.088
+2015,Andrews,9-Midland,3,42,0.071
+2015,Borden,9-Midland,1,6,0.167
+2015,Coke,9-Midland,3,26,0.115
+2015,Concho,9-Midland,4,13,0.308
+2015,Crane,9-Midland,1,10,0.1
+2015,Crockett,9-Midland,3,11,0.273
+2015,Dawson,9-Midland,13,106,0.123
+2015,Ector,9-Midland,82,549,0.149
+2015,Gaines,9-Midland,2,36,0.056
+2015,Howard,9-Midland,38,210,0.181
+2015,Irion,9-Midland,1,4,0.25
+2015,Kimble,9-Midland,3,21,0.143
+2015,Martin,9-Midland,3,14,0.214
+2015,Mason,9-Midland,1,10,0.1
+2015,McCulloch,9-Midland,5,75,0.067
+2015,Menard,9-Midland,2,15,0.133
+2015,Midland,9-Midland,66,401,0.165
+2015,Pecos,9-Midland,8,50,0.16
+2015,Reagan,9-Midland,1,5,0.2
+2015,Reeves,9-Midland,10,41,0.244
+2015,Schleicher,9-Midland,3,10,0.3
+2015,Sterling,9-Midland,0,2,0
+2015,Sutton,9-Midland,4,18,0.222
+2015,Terrell,9-Midland,0,3,0
+2015,Tom Green,9-Midland,203,912,0.223
+2015,Upton,9-Midland,3,8,0.375
+2015,Ward,9-Midland,13,71,0.183
+2015,Winkler,9-Midland,6,27,0.222
+2015,Brewster,10-El Paso,19,61,0.311
+2015,Culberson,10-El Paso,4,16,0.25
+2015,El Paso,10-El Paso,446,2821,0.158
+2015,Hudspeth,10-El Paso,0,12,0
+2015,Jeff Davis,10-El Paso,2,8,0.25
+2015,Presidio,10-El Paso,5,29,0.172
+2015,Aransas,11-Edinburg,36,183,0.197
+2015,Bee,11-Edinburg,24,145,0.166
+2015,Brooks,11-Edinburg,15,58,0.259
+2015,Cameron,11-Edinburg,238,1527,0.156
+2015,Duval,11-Edinburg,9,75,0.12
+2015,Hidalgo,11-Edinburg,390,2255,0.173
+2015,Jim Hogg,11-Edinburg,2,19,0.105
+2015,Jim Wells,11-Edinburg,37,188,0.197
+2015,Kleberg,11-Edinburg,15,150,0.1
+2015,Live Oak,11-Edinburg,3,43,0.07
+2015,McMullen,11-Edinburg,0,3,0
+2015,Nueces,11-Edinburg,300,1854,0.162
+2015,Refugio,11-Edinburg,11,35,0.314
+2015,San Patricio,11-Edinburg,46,318,0.145
+2015,Starr,11-Edinburg,18,171,0.105
+2015,Webb,11-Edinburg,106,697,0.152
+2015,Willacy,11-Edinburg,18,115,0.157
+2015,Zapata,11-Edinburg,6,45,0.133
+2015,Out of State,Out of State,9,47,0.191
+2015,None Specified,None Specified,1,3,0.333
+2014,Armstrong,1-Lubbock,0,5,0
+2014,Bailey,1-Lubbock,11,46,0.239
+2014,Briscoe,1-Lubbock,1,3,0.333
+2014,Carson,1-Lubbock,1,16,0.063
+2014,Castro,1-Lubbock,0,16,0
+2014,Childress,1-Lubbock,9,31,0.29
+2014,Cochran,1-Lubbock,23,73,0.315
+2014,Collingsworth,1-Lubbock,1,18,0.056
+2014,Crosby,1-Lubbock,13,42,0.31
+2014,Dallam,1-Lubbock,4,22,0.182
+2014,Deaf Smith,1-Lubbock,6,43,0.14
+2014,Dickens,1-Lubbock,3,18,0.167
+2014,Donley,1-Lubbock,0,9,0
+2014,Floyd,1-Lubbock,14,47,0.298
+2014,Garza,1-Lubbock,6,35,0.171
+2014,Gray,1-Lubbock,17,102,0.167
+2014,Hale,1-Lubbock,15,141,0.106
+2014,Hall,1-Lubbock,3,16,0.188
+2014,Hansford,1-Lubbock,2,6,0.333
+2014,Hartley,1-Lubbock,2,13,0.154
+2014,Hemphill,1-Lubbock,2,10,0.2
+2014,Hockley,1-Lubbock,24,138,0.174
+2014,Hutchinson,1-Lubbock,15,95,0.158
+2014,Lamb,1-Lubbock,25,94,0.266
+2014,Lipscomb,1-Lubbock,0,10,0
+2014,Lubbock,1-Lubbock,518,1883,0.275
+2014,Lynn,1-Lubbock,12,41,0.293
+2014,Moore,1-Lubbock,4,35,0.114
+2014,Motley,1-Lubbock,0,8,0
+2014,Ochiltree,1-Lubbock,3,27,0.111
+2014,Oldham,1-Lubbock,1,2,0.5
+2014,Parmer,1-Lubbock,0,18,0
+2014,Potter,1-Lubbock,152,699,0.217
+2014,Randall,1-Lubbock,75,373,0.201
+2014,Sherman,1-Lubbock,0,8,0
+2014,Swisher,1-Lubbock,1,25,0.04
+2014,Terry,1-Lubbock,22,133,0.165
+2014,Wheeler,1-Lubbock,3,27,0.111
+2014,Yoakum,1-Lubbock,1,21,0.048
+2014,Archer,2-Abilene,15,69,0.217
+2014,Baylor,2-Abilene,12,58,0.207
+2014,Brown,2-Abilene,53,291,0.182
+2014,Callahan,2-Abilene,12,82,0.146
+2014,Clay,2-Abilene,25,97,0.258
+2014,Coleman,2-Abilene,9,59,0.153
+2014,Comanche,2-Abilene,13,65,0.2
+2014,Cottle,2-Abilene,0,10,0
+2014,Eastland,2-Abilene,30,168,0.179
+2014,Fisher,2-Abilene,4,18,0.222
+2014,Foard,2-Abilene,2,15,0.133
+2014,Hardeman,2-Abilene,3,36,0.083
+2014,Haskell,2-Abilene,6,44,0.136
+2014,Jack,2-Abilene,10,72,0.139
+2014,Jones,2-Abilene,26,133,0.195
+2014,Kent,2-Abilene,2,3,0.667
+2014,Knox,2-Abilene,1,22,0.045
+2014,Mitchell,2-Abilene,8,51,0.157
+2014,Montague,2-Abilene,37,155,0.239
+2014,Nolan,2-Abilene,15,133,0.113
+2014,Runnels,2-Abilene,14,75,0.187
+2014,Scurry,2-Abilene,14,60,0.233
+2014,Shackelford,2-Abilene,7,23,0.304
+2014,Stephens,2-Abilene,16,77,0.208
+2014,Stonewall,2-Abilene,2,11,0.182
+2014,Taylor,2-Abilene,238,1100,0.216
+2014,Throckmorton,2-Abilene,7,15,0.467
+2014,Wichita,2-Abilene,270,1170,0.231
+2014,Wilbarger,2-Abilene,25,154,0.162
+2014,Young,2-Abilene,30,177,0.169
+2014,Collin,3-Arlington,155,881,0.176
+2014,Cooke,3-Arlington,15,126,0.119
+2014,Dallas,3-Arlington,1037,6287,0.165
+2014,Denton,3-Arlington,111,865,0.128
+2014,Ellis,3-Arlington,41,321,0.128
+2014,Erath,3-Arlington,19,115,0.165
+2014,Fannin,3-Arlington,29,140,0.207
+2014,Grayson,3-Arlington,91,557,0.163
+2014,Hood,3-Arlington,27,170,0.159
+2014,Hunt,3-Arlington,92,471,0.195
+2014,Johnson,3-Arlington,61,423,0.144
+2014,Kaufman,3-Arlington,58,308,0.188
+2014,Navarro,3-Arlington,37,215,0.172
+2014,Palo Pinto,3-Arlington,35,188,0.186
+2014,Parker,3-Arlington,47,318,0.148
+2014,Rockwall,3-Arlington,25,124,0.202
+2014,Somervell,3-Arlington,3,22,0.136
+2014,Tarrant,3-Arlington,598,4399,0.136
+2014,Wise,3-Arlington,22,174,0.126
+2014,Anderson,4-Tyler,34,218,0.156
+2014,Bowie,4-Tyler,43,302,0.142
+2014,Cherokee,4-Tyler,50,270,0.185
+2014,Delta,4-Tyler,3,25,0.12
+2014,Franklin,4-Tyler,7,30,0.233
+2014,Gregg,4-Tyler,64,488,0.131
+2014,Harrison,4-Tyler,33,230,0.143
+2014,Henderson,4-Tyler,79,471,0.168
+2014,Hopkins,4-Tyler,18,128,0.141
+2014,Lamar,4-Tyler,43,280,0.154
+2014,Marion,4-Tyler,18,99,0.182
+2014,Morris,4-Tyler,11,81,0.136
+2014,Panola,4-Tyler,9,80,0.113
+2014,Rains,4-Tyler,4,38,0.105
+2014,Red River,4-Tyler,4,70,0.057
+2014,Rusk,4-Tyler,26,150,0.173
+2014,Smith,4-Tyler,125,902,0.139
+2014,Titus,4-Tyler,18,76,0.237
+2014,Upshur,4-Tyler,27,180,0.15
+2014,Van Zandt,4-Tyler,42,248,0.169
+2014,Wood,4-Tyler,25,187,0.134
+2014,Angelina,5-Beaumont,67,440,0.152
+2014,Hardin,5-Beaumont,25,195,0.128
+2014,Houston,5-Beaumont,28,151,0.185
+2014,Jasper,5-Beaumont,23,181,0.127
+2014,Jefferson,5-Beaumont,175,1268,0.138
+2014,Nacogdoches,5-Beaumont,31,246,0.126
+2014,Newton,5-Beaumont,15,88,0.17
+2014,Orange,5-Beaumont,71,435,0.163
+2014,Polk,5-Beaumont,31,289,0.107
+2014,Sabine,5-Beaumont,12,64,0.188
+2014,San Augustine,5-Beaumont,13,83,0.157
+2014,San Jacinto,5-Beaumont,38,197,0.193
+2014,Shelby,5-Beaumont,22,148,0.149
+2014,Trinity,5-Beaumont,24,127,0.189
+2014,Tyler,5-Beaumont,16,119,0.134
+2014,Austin,6-Houston,15,98,0.153
+2014,Brazoria,6-Houston,76,580,0.131
+2014,Chambers,6-Houston,8,79,0.101
+2014,Colorado,6-Houston,10,69,0.145
+2014,Fort Bend,6-Houston,75,746,0.101
+2014,Galveston,6-Houston,176,961,0.183
+2014,Harris,6-Houston,1476,10384,0.142
+2014,Liberty,6-Houston,50,330,0.152
+2014,Matagorda,6-Houston,17,133,0.128
+2014,Montgomery,6-Houston,169,1114,0.152
+2014,Walker,6-Houston,23,150,0.153
+2014,Waller,6-Houston,11,86,0.128
+2014,Wharton,6-Houston,14,108,0.13
+2014,Bastrop,7-Austin,46,283,0.163
+2014,Bell,7-Austin,209,1082,0.193
+2014,Blanco,7-Austin,9,36,0.25
+2014,Bosque,7-Austin,11,77,0.143
+2014,Brazos,7-Austin,54,306,0.176
+2014,Burleson,7-Austin,12,71,0.169
+2014,Burnet,7-Austin,17,120,0.142
+2014,Caldwell,7-Austin,21,144,0.146
+2014,Coryell,7-Austin,36,199,0.181
+2014,Falls,7-Austin,7,80,0.088
+2014,Fayette,7-Austin,6,64,0.094
+2014,Freestone,7-Austin,8,66,0.121
+2014,Grimes,7-Austin,19,91,0.209
+2014,Hamilton,7-Austin,1,27,0.037
+2014,Hays,7-Austin,43,259,0.166
+2014,Hill,7-Austin,32,161,0.199
+2014,Lampasas,7-Austin,16,90,0.178
+2014,Lee,7-Austin,10,48,0.208
+2014,Leon,7-Austin,7,53,0.132
+2014,Limestone,7-Austin,7,119,0.059
+2014,Llano,7-Austin,10,77,0.13
+2014,Madison,7-Austin,3,40,0.075
+2014,McLennan,7-Austin,142,987,0.144
+2014,Milam,7-Austin,12,106,0.113
+2014,Mills,7-Austin,2,23,0.087
+2014,Robertson,7-Austin,12,66,0.182
+2014,San Saba,7-Austin,4,20,0.2
+2014,Travis,7-Austin,480,2792,0.172
+2014,Washington,7-Austin,8,79,0.101
+2014,Williamson,7-Austin,128,800,0.16
+2014,Atascosa,8-San Antonio,26,153,0.17
+2014,Bandera,8-San Antonio,18,102,0.176
+2014,Bexar,8-San Antonio,1055,6732,0.157
+2014,Calhoun,8-San Antonio,12,72,0.167
+2014,Comal,8-San Antonio,39,295,0.132
+2014,DeWitt,8-San Antonio,7,58,0.121
+2014,Dimmit,8-San Antonio,3,35,0.086
+2014,Edwards,8-San Antonio,2,9,0.222
+2014,Frio,8-San Antonio,7,68,0.103
+2014,Gillespie,8-San Antonio,10,68,0.147
+2014,Goliad,8-San Antonio,5,22,0.227
+2014,Gonzales,8-San Antonio,11,65,0.169
+2014,Guadalupe,8-San Antonio,54,317,0.17
+2014,Jackson,8-San Antonio,5,34,0.147
+2014,Karnes,8-San Antonio,2,37,0.054
+2014,Kendall,8-San Antonio,15,65,0.231
+2014,Kerr,8-San Antonio,46,264,0.174
+2014,Kinney,8-San Antonio,1,12,0.083
+2014,La Salle,8-San Antonio,1,15,0.067
+2014,Lavaca,8-San Antonio,10,48,0.208
+2014,Maverick,8-San Antonio,18,170,0.106
+2014,Medina,8-San Antonio,13,109,0.119
+2014,Real,8-San Antonio,1,13,0.077
+2014,Uvalde,8-San Antonio,12,104,0.115
+2014,Val Verde,8-San Antonio,20,180,0.111
+2014,Victoria,8-San Antonio,34,269,0.126
+2014,Wilson,8-San Antonio,19,101,0.188
+2014,Zavala,8-San Antonio,7,33,0.212
+2014,Andrews,9-Midland,1,32,0.031
+2014,Borden,9-Midland,1,6,0.167
+2014,Coke,9-Midland,4,14,0.286
+2014,Concho,9-Midland,3,20,0.15
+2014,Crane,9-Midland,2,12,0.167
+2014,Crockett,9-Midland,4,15,0.267
+2014,Dawson,9-Midland,13,75,0.173
+2014,Ector,9-Midland,98,534,0.184
+2014,Gaines,9-Midland,5,20,0.25
+2014,Howard,9-Midland,28,183,0.153
+2014,Irion,9-Midland,1,3,0.333
+2014,Kimble,9-Midland,2,25,0.08
+2014,Loving,9-Midland,0,1,0
+2014,Martin,9-Midland,5,18,0.278
+2014,Mason,9-Midland,1,13,0.077
+2014,McCulloch,9-Midland,14,65,0.215
+2014,Menard,9-Midland,2,10,0.2
+2014,Midland,9-Midland,50,327,0.153
+2014,Pecos,9-Midland,4,35,0.114
+2014,Reagan,9-Midland,0,7,0
+2014,Reeves,9-Midland,10,56,0.179
+2014,Schleicher,9-Midland,1,12,0.083
+2014,Sterling,9-Midland,0,2,0
+2014,Sutton,9-Midland,3,13,0.231
+2014,Terrell,9-Midland,0,6,0
+2014,Tom Green,9-Midland,164,921,0.178
+2014,Upton,9-Midland,2,22,0.091
+2014,Ward,9-Midland,11,43,0.256
+2014,Winkler,9-Midland,4,20,0.2
+2014,Brewster,10-El Paso,18,59,0.305
+2014,Culberson,10-El Paso,0,13,0
+2014,El Paso,10-El Paso,380,2693,0.141
+2014,Hudspeth,10-El Paso,1,20,0.05
+2014,Jeff Davis,10-El Paso,2,9,0.222
+2014,Presidio,10-El Paso,6,28,0.214
+2014,Aransas,11-Edinburg,25,146,0.171
+2014,Bee,11-Edinburg,32,143,0.224
+2014,Brooks,11-Edinburg,6,52,0.115
+2014,Cameron,11-Edinburg,200,1369,0.146
+2014,Duval,11-Edinburg,6,66,0.091
+2014,Hidalgo,11-Edinburg,286,2077,0.138
+2014,Jim Hogg,11-Edinburg,1,20,0.05
+2014,Jim Wells,11-Edinburg,20,172,0.116
+2014,Kleberg,11-Edinburg,19,162,0.117
+2014,Live Oak,11-Edinburg,2,31,0.065
+2014,McMullen,11-Edinburg,1,3,0.333
+2014,Nueces,11-Edinburg,286,1709,0.167
+2014,Refugio,11-Edinburg,3,28,0.107
+2014,San Patricio,11-Edinburg,43,284,0.151
+2014,Starr,11-Edinburg,31,173,0.179
+2014,Webb,11-Edinburg,75,594,0.126
+2014,Willacy,11-Edinburg,21,141,0.149
+2014,Zapata,11-Edinburg,4,32,0.125
+2014,Out of State,Out of State,5,53,0.094
+2014,None Specified,None Specified,1,2,0.5
+2013,Armstrong,1-Lubbock,0,5,0
+2013,Bailey,1-Lubbock,10,36,0.278
+2013,Briscoe,1-Lubbock,2,5,0.4
+2013,Carson,1-Lubbock,1,19,0.053
+2013,Castro,1-Lubbock,3,25,0.12
+2013,Childress,1-Lubbock,6,40,0.15
+2013,Cochran,1-Lubbock,21,83,0.253
+2013,Collingsworth,1-Lubbock,4,12,0.333
+2013,Crosby,1-Lubbock,8,42,0.19
+2013,Dallam,1-Lubbock,0,8,0
+2013,Deaf Smith,1-Lubbock,5,40,0.125
+2013,Dickens,1-Lubbock,4,17,0.235
+2013,Donley,1-Lubbock,3,20,0.15
+2013,Floyd,1-Lubbock,6,55,0.109
+2013,Garza,1-Lubbock,6,38,0.158
+2013,Gray,1-Lubbock,13,83,0.157
+2013,Hale,1-Lubbock,14,109,0.128
+2013,Hall,1-Lubbock,1,14,0.071
+2013,Hansford,1-Lubbock,1,7,0.143
+2013,Hartley,1-Lubbock,0,6,0
+2013,Hemphill,1-Lubbock,1,5,0.2
+2013,Hockley,1-Lubbock,30,154,0.195
+2013,Hutchinson,1-Lubbock,9,79,0.114
+2013,Lamb,1-Lubbock,15,80,0.188
+2013,Lipscomb,1-Lubbock,0,9,0
+2013,Lubbock,1-Lubbock,353,1690,0.209
+2013,Lynn,1-Lubbock,3,24,0.125
+2013,Moore,1-Lubbock,5,30,0.167
+2013,Motley,1-Lubbock,2,15,0.133
+2013,Ochiltree,1-Lubbock,1,17,0.059
+2013,Oldham,1-Lubbock,0,3,0
+2013,Parmer,1-Lubbock,4,16,0.25
+2013,Potter,1-Lubbock,128,612,0.209
+2013,Randall,1-Lubbock,55,251,0.219
+2013,Roberts,1-Lubbock,0,2,0
+2013,Swisher,1-Lubbock,1,24,0.042
+2013,Terry,1-Lubbock,21,115,0.183
+2013,Wheeler,1-Lubbock,2,19,0.105
+2013,Yoakum,1-Lubbock,2,25,0.08
+2013,Archer,2-Abilene,12,43,0.279
+2013,Baylor,2-Abilene,10,45,0.222
+2013,Brown,2-Abilene,38,254,0.15
+2013,Callahan,2-Abilene,10,57,0.175
+2013,Clay,2-Abilene,15,85,0.176
+2013,Coleman,2-Abilene,10,66,0.152
+2013,Comanche,2-Abilene,6,65,0.092
+2013,Cottle,2-Abilene,2,13,0.154
+2013,Eastland,2-Abilene,26,124,0.21
+2013,Fisher,2-Abilene,0,24,0
+2013,Foard,2-Abilene,3,12,0.25
+2013,Hardeman,2-Abilene,9,39,0.231
+2013,Haskell,2-Abilene,14,41,0.341
+2013,Jack,2-Abilene,15,55,0.273
+2013,Jones,2-Abilene,19,112,0.17
+2013,Kent,2-Abilene,1,6,0.167
+2013,Knox,2-Abilene,7,21,0.333
+2013,Mitchell,2-Abilene,10,47,0.213
+2013,Montague,2-Abilene,35,131,0.267
+2013,Nolan,2-Abilene,19,104,0.183
+2013,Runnels,2-Abilene,12,60,0.2
+2013,Scurry,2-Abilene,7,73,0.096
+2013,Shackelford,2-Abilene,4,16,0.25
+2013,Stephens,2-Abilene,13,76,0.171
+2013,Stonewall,2-Abilene,2,6,0.333
+2013,Taylor,2-Abilene,169,863,0.196
+2013,Throckmorton,2-Abilene,1,5,0.2
+2013,Wichita,2-Abilene,197,1004,0.196
+2013,Wilbarger,2-Abilene,17,93,0.183
+2013,Young,2-Abilene,33,151,0.219
+2013,Collin,3-Arlington,102,731,0.14
+2013,Cooke,3-Arlington,18,107,0.168
+2013,Dallas,3-Arlington,826,5274,0.157
+2013,Denton,3-Arlington,78,752,0.104
+2013,Ellis,3-Arlington,52,298,0.174
+2013,Erath,3-Arlington,15,80,0.188
+2013,Fannin,3-Arlington,10,94,0.106
+2013,Grayson,3-Arlington,69,447,0.154
+2013,Hood,3-Arlington,20,151,0.132
+2013,Hunt,3-Arlington,58,358,0.162
+2013,Johnson,3-Arlington,39,323,0.121
+2013,Kaufman,3-Arlington,46,290,0.159
+2013,Navarro,3-Arlington,16,160,0.1
+2013,Palo Pinto,3-Arlington,20,162,0.123
+2013,Parker,3-Arlington,38,253,0.15
+2013,Rockwall,3-Arlington,15,77,0.195
+2013,Somervell,3-Arlington,4,23,0.174
+2013,Tarrant,3-Arlington,479,3551,0.135
+2013,Wise,3-Arlington,24,125,0.192
+2013,Anderson,4-Tyler,28,222,0.126
+2013,Bowie,4-Tyler,41,313,0.131
+2013,Camp,4-Tyler,7,49,0.143
+2013,Cass,4-Tyler,16,125,0.128
+2013,Cherokee,4-Tyler,42,277,0.152
+2013,Delta,4-Tyler,4,23,0.174
+2013,Franklin,4-Tyler,6,28,0.214
+2013,Gregg,4-Tyler,68,465,0.146
+2013,Harrison,4-Tyler,25,187,0.134
+2013,Henderson,4-Tyler,47,417,0.113
+2013,Hopkins,4-Tyler,16,126,0.127
+2013,Lamar,4-Tyler,33,259,0.127
+2013,Marion,4-Tyler,10,85,0.118
+2013,Morris,4-Tyler,6,59,0.102
+2013,Panola,4-Tyler,17,90,0.189
+2013,Rains,4-Tyler,5,43,0.116
+2013,Red River,4-Tyler,9,80,0.113
+2013,Rusk,4-Tyler,21,157,0.134
+2013,Smith,4-Tyler,97,799,0.121
+2013,Titus,4-Tyler,14,85,0.165
+2013,Upshur,4-Tyler,27,145,0.186
+2013,Van Zandt,4-Tyler,22,204,0.108
+2013,Wood,4-Tyler,26,172,0.151
+2013,Angelina,5-Beaumont,61,407,0.15
+2013,Hardin,5-Beaumont,16,159,0.101
+2013,Houston,5-Beaumont,20,147,0.136
+2013,Jasper,5-Beaumont,33,220,0.15
+2013,Jefferson,5-Beaumont,152,1069,0.142
+2013,Nacogdoches,5-Beaumont,30,205,0.146
+2013,Newton,5-Beaumont,10,81,0.123
+2013,Orange,5-Beaumont,44,295,0.149
+2013,Polk,5-Beaumont,35,278,0.126
+2013,Sabine,5-Beaumont,6,52,0.115
+2013,San Augustine,5-Beaumont,7,66,0.106
+2013,San Jacinto,5-Beaumont,22,150,0.147
+2013,Shelby,5-Beaumont,19,127,0.15
+2013,Trinity,5-Beaumont,30,136,0.221
+2013,Tyler,5-Beaumont,7,87,0.08
+2013,Austin,6-Houston,18,71,0.254
+2013,Brazoria,6-Houston,53,504,0.105
+2013,Chambers,6-Houston,7,44,0.159
+2013,Colorado,6-Houston,10,59,0.169
+2013,Fort Bend,6-Houston,74,607,0.122
+2013,Galveston,6-Houston,96,806,0.119
+2013,Harris,6-Houston,1160,8907,0.13
+2013,Liberty,6-Houston,42,263,0.16
+2013,Matagorda,6-Houston,13,112,0.116
+2013,Montgomery,6-Houston,120,870,0.138
+2013,Walker,6-Houston,17,132,0.129
+2013,Waller,6-Houston,7,83,0.084
+2013,Wharton,6-Houston,15,108,0.139
+2013,Bastrop,7-Austin,34,242,0.14
+2013,Bell,7-Austin,150,925,0.162
+2013,Blanco,7-Austin,3,14,0.214
+2013,Bosque,7-Austin,5,50,0.1
+2013,Brazos,7-Austin,41,328,0.125
+2013,Burleson,7-Austin,12,46,0.261
+2013,Burnet,7-Austin,19,112,0.17
+2013,Caldwell,7-Austin,16,127,0.126
+2013,Coryell,7-Austin,29,171,0.17
+2013,Falls,7-Austin,12,59,0.203
+2013,Fayette,7-Austin,5,65,0.077
+2013,Freestone,7-Austin,6,59,0.102
+2013,Grimes,7-Austin,9,70,0.129
+2013,Hamilton,7-Austin,4,31,0.129
+2013,Hays,7-Austin,37,241,0.154
+2013,Hill,7-Austin,23,120,0.192
+2013,Lampasas,7-Austin,16,75,0.213
+2013,Lee,7-Austin,12,46,0.261
+2013,Leon,7-Austin,4,44,0.091
+2013,Limestone,7-Austin,15,90,0.167
+2013,Llano,7-Austin,14,83,0.169
+2013,Madison,7-Austin,2,37,0.054
+2013,McLennan,7-Austin,114,771,0.148
+2013,Milam,7-Austin,14,96,0.146
+2013,Mills,7-Austin,1,13,0.077
+2013,Robertson,7-Austin,11,61,0.18
+2013,San Saba,7-Austin,2,14,0.143
+2013,Travis,7-Austin,402,2493,0.161
+2013,Washington,7-Austin,13,89,0.146
+2013,Williamson,7-Austin,106,625,0.17
+2013,Atascosa,8-San Antonio,22,154,0.143
+2013,Bandera,8-San Antonio,14,79,0.177
+2013,Bexar,8-San Antonio,871,6059,0.144
+2013,Calhoun,8-San Antonio,6,66,0.091
+2013,Comal,8-San Antonio,48,249,0.193
+2013,DeWitt,8-San Antonio,7,72,0.097
+2013,Dimmit,8-San Antonio,4,32,0.125
+2013,Edwards,8-San Antonio,0,5,0
+2013,Frio,8-San Antonio,3,43,0.07
+2013,Gillespie,8-San Antonio,9,70,0.129
+2013,Goliad,8-San Antonio,2,11,0.182
+2013,Gonzales,8-San Antonio,3,59,0.051
+2013,Guadalupe,8-San Antonio,50,277,0.181
+2013,Jackson,8-San Antonio,2,39,0.051
+2013,Karnes,8-San Antonio,5,32,0.156
+2013,Kendall,8-San Antonio,3,58,0.052
+2013,Kerr,8-San Antonio,30,199,0.151
+2013,Kinney,8-San Antonio,5,24,0.208
+2013,La Salle,8-San Antonio,1,21,0.048
+2013,Lavaca,8-San Antonio,4,40,0.1
+2013,Maverick,8-San Antonio,10,159,0.063
+2013,Medina,8-San Antonio,19,134,0.142
+2013,Real,8-San Antonio,4,16,0.25
+2013,Uvalde,8-San Antonio,18,90,0.2
+2013,Val Verde,8-San Antonio,25,161,0.155
+2013,Victoria,8-San Antonio,40,254,0.157
+2013,Wilson,8-San Antonio,9,93,0.097
+2013,Zavala,8-San Antonio,4,38,0.105
+2013,Andrews,9-Midland,4,24,0.167
+2013,Borden,9-Midland,0,2,0
+2013,Coke,9-Midland,5,10,0.5
+2013,Concho,9-Midland,2,21,0.095
+2013,Crane,9-Midland,2,10,0.2
+2013,Crockett,9-Midland,1,22,0.045
+2013,Dawson,9-Midland,14,89,0.157
+2013,Ector,9-Midland,69,468,0.147
+2013,Gaines,9-Midland,2,26,0.077
+2013,Glasscock,9-Midland,0,1,0
+2013,Howard,9-Midland,26,197,0.132
+2013,Irion,9-Midland,0,3,0
+2013,Kimble,9-Midland,5,30,0.167
+2013,Martin,9-Midland,2,12,0.167
+2013,Mason,9-Midland,5,17,0.294
+2013,McCulloch,9-Midland,20,77,0.26
+2013,Menard,9-Midland,3,21,0.143
+2013,Midland,9-Midland,44,284,0.155
+2013,Pecos,9-Midland,7,49,0.143
+2013,Reagan,9-Midland,2,7,0.286
+2013,Reeves,9-Midland,7,51,0.137
+2013,Schleicher,9-Midland,0,9,0
+2013,Sterling,9-Midland,0,3,0
+2013,Sutton,9-Midland,3,17,0.176
+2013,Terrell,9-Midland,0,3,0
+2013,Tom Green,9-Midland,146,771,0.189
+2013,Upton,9-Midland,3,17,0.176
+2013,Ward,9-Midland,7,47,0.149
+2013,Winkler,9-Midland,5,21,0.238
+2013,Brewster,10-El Paso,8,35,0.229
+2013,Culberson,10-El Paso,4,18,0.222
+2013,El Paso,10-El Paso,319,2500,0.128
+2013,Hudspeth,10-El Paso,1,11,0.091
+2013,Jeff Davis,10-El Paso,0,7,0
+2013,Presidio,10-El Paso,2,17,0.118
+2013,Aransas,11-Edinburg,23,126,0.183
+2013,Bee,11-Edinburg,21,138,0.152
+2013,Brooks,11-Edinburg,5,47,0.106
+2013,Cameron,11-Edinburg,172,1247,0.138
+2013,Duval,11-Edinburg,8,55,0.145
+2013,Hidalgo,11-Edinburg,264,1986,0.133
+2013,Jim Hogg,11-Edinburg,1,13,0.077
+2013,Jim Wells,11-Edinburg,21,158,0.133
+2013,Kenedy,11-Edinburg,0,1,0
+2013,Kleberg,11-Edinburg,13,96,0.135
+2013,Live Oak,11-Edinburg,6,42,0.143
+2013,Nueces,11-Edinburg,247,1504,0.164
+2013,Refugio,11-Edinburg,9,36,0.25
+2013,San Patricio,11-Edinburg,38,255,0.149
+2013,Starr,11-Edinburg,16,159,0.101
+2013,Webb,11-Edinburg,56,547,0.102
+2013,Willacy,11-Edinburg,22,116,0.19
+2013,Zapata,11-Edinburg,5,43,0.116
+2013,Out of State,Out of State,3,40,0.075
+2013,None Specified,None Specified,0,1,0
+2012,Armstrong,1-Lubbock,1,6,0.167
+2012,Bailey,1-Lubbock,7,36,0.194
+2012,Briscoe,1-Lubbock,1,11,0.091
+2012,Carson,1-Lubbock,3,11,0.273
+2012,Castro,1-Lubbock,3,19,0.158
+2012,Childress,1-Lubbock,12,49,0.245
+2012,Cochran,1-Lubbock,18,70,0.257
+2012,Collingsworth,1-Lubbock,4,15,0.267
+2012,Crosby,1-Lubbock,9,43,0.209
+2012,Dallam,1-Lubbock,1,19,0.053
+2012,Deaf Smith,1-Lubbock,3,43,0.07
+2012,Dickens,1-Lubbock,5,24,0.208
+2012,Donley,1-Lubbock,3,17,0.176
+2012,Floyd,1-Lubbock,4,36,0.111
+2012,Garza,1-Lubbock,6,53,0.113
+2012,Gray,1-Lubbock,13,93,0.14
+2012,Hale,1-Lubbock,17,137,0.124
+2012,Hall,1-Lubbock,1,11,0.091
+2012,Hansford,1-Lubbock,2,10,0.2
+2012,Hartley,1-Lubbock,1,11,0.091
+2012,Hemphill,1-Lubbock,3,7,0.429
+2012,Hockley,1-Lubbock,35,144,0.243
+2012,Hutchinson,1-Lubbock,13,87,0.149
+2012,Lamb,1-Lubbock,22,103,0.214
+2012,Lipscomb,1-Lubbock,0,2,0
+2012,Lubbock,1-Lubbock,540,2093,0.258
+2012,Lynn,1-Lubbock,7,43,0.163
+2012,Moore,1-Lubbock,5,42,0.119
+2012,Motley,1-Lubbock,3,20,0.15
+2012,Ochiltree,1-Lubbock,2,11,0.182
+2012,Oldham,1-Lubbock,2,10,0.2
+2012,Parmer,1-Lubbock,4,15,0.267
+2012,Potter,1-Lubbock,142,692,0.205
+2012,Randall,1-Lubbock,60,321,0.187
+2012,Sherman,1-Lubbock,0,2,0
+2012,Swisher,1-Lubbock,4,36,0.111
+2012,Terry,1-Lubbock,19,133,0.143
+2012,Wheeler,1-Lubbock,1,20,0.05
+2012,Yoakum,1-Lubbock,3,16,0.188
+2012,Archer,2-Abilene,25,61,0.41
+2012,Baylor,2-Abilene,19,61,0.311
+2012,Brown,2-Abilene,57,308,0.185
+2012,Callahan,2-Abilene,16,106,0.151
+2012,Clay,2-Abilene,33,124,0.266
+2012,Coleman,2-Abilene,7,71,0.099
+2012,Comanche,2-Abilene,18,75,0.24
+2012,Cottle,2-Abilene,2,20,0.1
+2012,Eastland,2-Abilene,32,161,0.199
+2012,Fisher,2-Abilene,4,23,0.174
+2012,Foard,2-Abilene,0,16,0
+2012,Hardeman,2-Abilene,11,46,0.239
+2012,Haskell,2-Abilene,10,43,0.233
+2012,Jack,2-Abilene,16,73,0.219
+2012,Jones,2-Abilene,29,127,0.228
+2012,Kent,2-Abilene,0,4,0
+2012,Knox,2-Abilene,9,27,0.333
+2012,Mitchell,2-Abilene,9,49,0.184
+2012,Montague,2-Abilene,47,187,0.251
+2012,Nolan,2-Abilene,26,144,0.181
+2012,Runnels,2-Abilene,17,79,0.215
+2012,Scurry,2-Abilene,13,75,0.173
+2012,Shackelford,2-Abilene,1,15,0.067
+2012,Stephens,2-Abilene,20,97,0.206
+2012,Stonewall,2-Abilene,1,10,0.1
+2012,Taylor,2-Abilene,196,1099,0.178
+2012,Throckmorton,2-Abilene,2,8,0.25
+2012,Wichita,2-Abilene,313,1272,0.246
+2012,Wilbarger,2-Abilene,29,137,0.212
+2012,Young,2-Abilene,47,202,0.233
+2012,Collin,3-Arlington,121,860,0.141
+2012,Cooke,3-Arlington,12,134,0.09
+2012,Dallas,3-Arlington,956,6386,0.15
+2012,Denton,3-Arlington,134,957,0.14
+2012,Ellis,3-Arlington,34,332,0.102
+2012,Erath,3-Arlington,12,90,0.133
+2012,Fannin,3-Arlington,12,126,0.095
+2012,Grayson,3-Arlington,83,565,0.147
+2012,Hood,3-Arlington,20,165,0.121
+2012,Hunt,3-Arlington,75,428,0.175
+2012,Johnson,3-Arlington,74,426,0.174
+2012,Kaufman,3-Arlington,44,332,0.133
+2012,Navarro,3-Arlington,33,228,0.145
+2012,Palo Pinto,3-Arlington,21,142,0.148
+2012,Parker,3-Arlington,31,261,0.119
+2012,Rockwall,3-Arlington,16,125,0.128
+2012,Somervell,3-Arlington,1,18,0.056
+2012,Tarrant,3-Arlington,571,4288,0.133
+2012,Wise,3-Arlington,18,140,0.129
+2012,Anderson,4-Tyler,54,301,0.179
+2012,Bowie,4-Tyler,52,401,0.13
+2012,Camp,4-Tyler,16,56,0.286
+2012,Cass,4-Tyler,22,129,0.171
+2012,Cherokee,4-Tyler,70,432,0.162
+2012,Delta,4-Tyler,6,34,0.176
+2012,Franklin,4-Tyler,5,31,0.161
+2012,Gregg,4-Tyler,91,557,0.163
+2012,Harrison,4-Tyler,54,284,0.19
+2012,Henderson,4-Tyler,76,509,0.149
+2012,Hopkins,4-Tyler,25,165,0.152
+2012,Lamar,4-Tyler,59,327,0.18
+2012,Marion,4-Tyler,13,99,0.131
+2012,Morris,4-Tyler,12,81,0.148
+2012,Panola,4-Tyler,13,97,0.134
+2012,Rains,4-Tyler,9,51,0.176
+2012,Red River,4-Tyler,14,98,0.143
+2012,Rusk,4-Tyler,23,194,0.119
+2012,Smith,4-Tyler,170,989,0.172
+2012,Titus,4-Tyler,13,106,0.123
+2012,Upshur,4-Tyler,23,154,0.149
+2012,Van Zandt,4-Tyler,48,259,0.185
+2012,Wood,4-Tyler,22,217,0.101
+2012,Angelina,5-Beaumont,87,514,0.169
+2012,Hardin,5-Beaumont,42,212,0.198
+2012,Houston,5-Beaumont,58,230,0.252
+2012,Jasper,5-Beaumont,48,267,0.18
+2012,Jefferson,5-Beaumont,234,1381,0.169
+2012,Nacogdoches,5-Beaumont,30,246,0.122
+2012,Newton,5-Beaumont,18,84,0.214
+2012,Orange,5-Beaumont,91,417,0.218
+2012,Polk,5-Beaumont,48,331,0.145
+2012,Sabine,5-Beaumont,23,85,0.271
+2012,San Augustine,5-Beaumont,17,98,0.173
+2012,San Jacinto,5-Beaumont,43,244,0.176
+2012,Shelby,5-Beaumont,44,195,0.226
+2012,Trinity,5-Beaumont,42,155,0.271
+2012,Tyler,5-Beaumont,19,116,0.164
+2012,Austin,6-Houston,8,102,0.078
+2012,Brazoria,6-Houston,53,590,0.09
+2012,Chambers,6-Houston,5,54,0.093
+2012,Colorado,6-Houston,9,73,0.123
+2012,Fort Bend,6-Houston,87,731,0.119
+2012,Galveston,6-Houston,129,917,0.141
+2012,Harris,6-Houston,1528,10956,0.139
+2012,Liberty,6-Houston,60,312,0.192
+2012,Matagorda,6-Houston,15,130,0.115
+2012,Montgomery,6-Houston,149,1172,0.127
+2012,Walker,6-Houston,20,155,0.129
+2012,Waller,6-Houston,16,110,0.145
+2012,Wharton,6-Houston,16,149,0.107
+2012,Bastrop,7-Austin,47,287,0.164
+2012,Bell,7-Austin,209,1124,0.186
+2012,Blanco,7-Austin,3,26,0.115
+2012,Bosque,7-Austin,15,97,0.155
+2012,Brazos,7-Austin,49,334,0.147
+2012,Burleson,7-Austin,13,64,0.203
+2012,Burnet,7-Austin,20,148,0.135
+2012,Caldwell,7-Austin,18,143,0.126
+2012,Coryell,7-Austin,20,164,0.122
+2012,Falls,7-Austin,14,78,0.179
+2012,Fayette,7-Austin,7,78,0.09
+2012,Freestone,7-Austin,7,71,0.099
+2012,Grimes,7-Austin,12,93,0.129
+2012,Hamilton,7-Austin,10,39,0.256
+2012,Hays,7-Austin,39,260,0.15
+2012,Hill,7-Austin,28,145,0.193
+2012,Lampasas,7-Austin,8,80,0.1
+2012,Lee,7-Austin,8,62,0.129
+2012,Leon,7-Austin,5,63,0.079
+2012,Limestone,7-Austin,12,99,0.121
+2012,Llano,7-Austin,16,98,0.163
+2012,Madison,7-Austin,8,59,0.136
+2012,McLennan,7-Austin,143,954,0.15
+2012,Milam,7-Austin,19,103,0.184
+2012,Mills,7-Austin,3,14,0.214
+2012,Robertson,7-Austin,13,77,0.169
+2012,San Saba,7-Austin,3,24,0.125
+2012,Travis,7-Austin,526,2963,0.178
+2012,Washington,7-Austin,27,136,0.199
+2012,Williamson,7-Austin,125,709,0.176
+2012,Atascosa,8-San Antonio,23,164,0.14
+2012,Bandera,8-San Antonio,9,91,0.099
+2012,Bexar,8-San Antonio,1144,7469,0.153
+2012,Calhoun,8-San Antonio,6,68,0.088
+2012,Comal,8-San Antonio,51,332,0.154
+2012,DeWitt,8-San Antonio,7,94,0.074
+2012,Dimmit,8-San Antonio,4,31,0.129
+2012,Edwards,8-San Antonio,0,7,0
+2012,Frio,8-San Antonio,10,43,0.233
+2012,Gillespie,8-San Antonio,8,70,0.114
+2012,Goliad,8-San Antonio,4,23,0.174
+2012,Gonzales,8-San Antonio,7,70,0.1
+2012,Guadalupe,8-San Antonio,74,359,0.206
+2012,Jackson,8-San Antonio,2,28,0.071
+2012,Karnes,8-San Antonio,8,51,0.157
+2012,Kendall,8-San Antonio,3,79,0.038
+2012,Kerr,8-San Antonio,37,303,0.122
+2012,Kinney,8-San Antonio,0,12,0
+2012,La Salle,8-San Antonio,4,17,0.235
+2012,Lavaca,8-San Antonio,8,58,0.138
+2012,Maverick,8-San Antonio,23,158,0.146
+2012,Medina,8-San Antonio,22,124,0.177
+2012,Real,8-San Antonio,3,13,0.231
+2012,Uvalde,8-San Antonio,20,105,0.19
+2012,Val Verde,8-San Antonio,37,225,0.164
+2012,Victoria,8-San Antonio,42,334,0.126
+2012,Wilson,8-San Antonio,7,85,0.082
+2012,Zavala,8-San Antonio,7,37,0.189
+2012,Andrews,9-Midland,3,28,0.107
+2012,Borden,9-Midland,0,2,0
+2012,Coke,9-Midland,4,20,0.2
+2012,Concho,9-Midland,5,18,0.278
+2012,Crane,9-Midland,4,11,0.364
+2012,Crockett,9-Midland,2,12,0.167
+2012,Dawson,9-Midland,11,104,0.106
+2012,Ector,9-Midland,92,575,0.16
+2012,Gaines,9-Midland,4,32,0.125
+2012,Glasscock,9-Midland,0,4,0
+2012,Howard,9-Midland,42,259,0.162
+2012,Irion,9-Midland,0,3,0
+2012,Kimble,9-Midland,5,41,0.122
+2012,Martin,9-Midland,2,24,0.083
+2012,Mason,9-Midland,0,21,0
+2012,McCulloch,9-Midland,11,77,0.143
+2012,Menard,9-Midland,1,19,0.053
+2012,Midland,9-Midland,54,359,0.15
+2012,Pecos,9-Midland,9,65,0.138
+2012,Reagan,9-Midland,0,7,0
+2012,Reeves,9-Midland,12,65,0.185
+2012,Schleicher,9-Midland,3,18,0.167
+2012,Sterling,9-Midland,0,2,0
+2012,Sutton,9-Midland,4,15,0.267
+2012,Terrell,9-Midland,0,3,0
+2012,Tom Green,9-Midland,263,1092,0.241
+2012,Upton,9-Midland,3,18,0.167
+2012,Ward,9-Midland,8,54,0.148
+2012,Winkler,9-Midland,5,31,0.161
+2012,Brewster,10-El Paso,16,67,0.239
+2012,Culberson,10-El Paso,1,8,0.125
+2012,El Paso,10-El Paso,407,2856,0.143
+2012,Hudspeth,10-El Paso,3,12,0.25
+2012,Jeff Davis,10-El Paso,1,8,0.125
+2012,Presidio,10-El Paso,1,29,0.034
+2012,Aransas,11-Edinburg,43,144,0.299
+2012,Bee,11-Edinburg,20,133,0.15
+2012,Brooks,11-Edinburg,8,51,0.157
+2012,Cameron,11-Edinburg,189,1407,0.134
+2012,Duval,11-Edinburg,2,43,0.047
+2012,Hidalgo,11-Edinburg,341,2205,0.155
+2012,Jim Hogg,11-Edinburg,3,28,0.107
+2012,Jim Wells,11-Edinburg,25,194,0.129
+2012,Kleberg,11-Edinburg,11,116,0.095
+2012,Live Oak,11-Edinburg,5,34,0.147
+2012,McMullen,11-Edinburg,1,2,0.5
+2012,Nueces,11-Edinburg,269,1673,0.161
+2012,Refugio,11-Edinburg,1,22,0.045
+2012,San Patricio,11-Edinburg,57,304,0.188
+2012,Starr,11-Edinburg,18,171,0.105
+2012,Webb,11-Edinburg,87,589,0.148
+2012,Willacy,11-Edinburg,17,115,0.148
+2012,Zapata,11-Edinburg,8,43,0.186
+2012,Out of State,Out of State,2,34,0.059
+2012,None Specified,None Specified,2,7,0.286
