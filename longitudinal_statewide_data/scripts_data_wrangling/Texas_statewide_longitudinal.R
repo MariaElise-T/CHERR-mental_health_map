@@ -350,7 +350,7 @@ all_988_merged <- as.data.frame(rbind(all_988_merged, august22_988))
 all_988_merged <- as.data.frame(rbind(all_988_merged, september22_988))
 all_988_merged <- as.data.frame(rbind(all_988_merged, october22_988))
 all_988_merged <- as.data.frame(rbind(all_988_merged, november22_988))
-
+all_988_merged <- all_988_merged[which(all_988_merged$State=='TX'),]
 ################################################################################
 # Merge
 ################################################################################
