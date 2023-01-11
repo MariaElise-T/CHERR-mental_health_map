@@ -33,4 +33,4 @@ CPS_APS_merge <- merge(CPS_APS_merge, APS_at_risk, by=c("Fiscal.Year", "County")
 CPS_APS_merge <- merge(CPS_APS_merge, APS_activity, by=c("Fiscal.Year", "County"), all=T)
 CPS_APS_merge <- merge(CPS_APS_merge, APS_recidivism, by=c("Fiscal.Year", "County"), all=T)
 
-write.csv(CPS_APS_merge, "CPS_APS_merge.csv", row.names=F)
+write.csv(CPS_APS_merge, "CPS_APS_merge.csv", row.names=F, na='')

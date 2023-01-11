@@ -271,4 +271,4 @@ for(i in 1:nrow(data_merged)){
   data_merged[i,]$percent_comp <- 1-sum(is.na(data_merged[i,]))/(ncol(data_merged)-3)
 }
 
-write.csv(data_merged, "snapshot_county_data_v_2_1.csv", row.names=F)
+write.csv(data_merged, "snapshot_county_data_v_2_1.csv", row.names=F, na='')
