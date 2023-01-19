@@ -1,6 +1,80 @@
-# CHERR-mental_health_data_processing
+# CHERR Mental Health MAP README
 
-CURRENT DASHBOARD: https://prod-useast-a.online.tableau.com/t/cherrmentalhealthmap/views/CHERRMentalHealthMapV1_31/Homepage
+## RELEASE 2.1 CHANGES
+
+Version 2 introduces new data that may be longitudinal, at a granularity other than county-level, or both.
+
+There are now 3 different datafiles feeding the dashboard that are defined by their granuality and temporality.
+
+**longitudinal_county_data** contains metrics at the county level that are tracked for at least two seperate points in time.
+**longitudinal_statewide_data** contains metrics at the state level that are tracked for at least two seperate points in time.
+**snapshot_county_data** contains metrics at the county level that are only available for one point in time.  In version 1, this was the default dataset.
+
+### Variables
+
+#### longitudinal_county_data
+
+- ** Added the fiscal year of the measurement **
+- ** Added the name of the county **
+- ** Added the number of confirmed victims in Child Protective Serivces (CPS) investigations per county per year, meaning the number of children who were eith er the subject of a substantiated or indicted maltreatment report or children who were identified as victims in an alternate response process.**, *filename*, source: https://data.texas.gov/dataset/CPI-3-8-Abuse-Neglect-Investigations-Alleged-and-C/v63e-6dss
+- ** Added the number of unconfirmed victims in (CPS) investigations per county per year, meaning the number of children who were the subjects of maltreatment reports that have either been dismissed or not yet substantiated.**, *filename*, source: https://data.texas.gov/dataset/CPI-3-8-Abuse-Neglect-Investigations-Alleged-and-C/v63e-6dss
+- ** Added the number of CPS removals in the family preservation stage per county per year.**, *filename*, source: https://data.texas.gov/dataset/CPS-2-1-Removals-by-County-FY2012-2021/xmtn-e5c8
+- ** Added the number of CPS removals in the investigation stage per county per year.**, *filename*, source: https://data.texas.gov/dataset/CPS-2-1-Removals-by-County-FY2012-2021/xmtn-e5c8
+- ** Added the total number of children in DFPS responsibility per county per year.**, *filename*, source: https://data.texas.gov/dataset/CPS-2-3-Children-In-DFPS-Legal-Responsibility-by-C/929f-jvud
+- ** Added the  **, *filename*, source: 
+- ** Added the  **, *filename*, source: 
+- ** Added the  **, *filename*, source: 
+- ** Added the  **, *filename*, source: 
+- ** Added the  **, *filename*, source: 
+- ** Added the  **, *filename*, source: 
+- ** Added the  **, *filename*, source: 
+- ** Added the  **, *filename*, source: 
+- ** Added the  **, *filename*, source: 
+- ** Added the  **, *filename*, source: 
+
+#### longitudinal_statewide_data
+
+- ** Added the  **, *filename*, source: 
+
+Year
+month
+Texas
+firearms_background_checks
+schoolYear
+A01 - STATE CUMULATIVE YEAR END ENROLLMENT
+A02 - STATE DISCIPLINE POPULATION
+A03 - STATE DISCIPLINE RECORD COUNT
+G02 - 02-CONDUCT PUNISHABLE AS A FELONY
+G04 - 04-CONTROLLED SUBSTANCE/DRUGS
+G05 - 05-ALCOHOL VIOLATION
+G11 - 11-FIREARM OR HANDGUN VIOLATION
+G27 - 27-ASSAULT-DISTRICT EMPLOYEE
+G28 - 28-ASSAULT-NONDISTRICT EMPLOYEE
+G29 - 29-AGG ASSAULT-DISTRICT EMPLOYEE
+G30 - 30-AGG ASSAULT-NONDIST EMPLOYEE
+G32 - 32-SEXUAL ASSAULT-NONDIST EMPLOYE
+G34 - 34-SCHOOL-RELATED GANG VIOLENCE
+G36 - 36-FELONY CONTROLLED SUBS VIOLAT
+G41 - 41-FIGHTING/MUTUAL COMBAT
+Percent of drug samples recovered in Texas that tested positive for a specific substance in the given year (see METADATA for full list of identified substances)
+State
+Routed
+Received
+Answered_In_State
+In_state_answer_rate
+Abandoned_in_state
+Flowout_to_backup
+ASA_in_state
+Avg_talk_time_in_state
+
+#### snapshot_county_data
+
+- ** Added the  **, *filename*, source: 
+
+Total.number.of.waivered.providers
+Patient.capacity
+High.need.for.treatment.services
+Low.to.no.patient.capacity
 
 ## RELEASE 1.3 CHANGES
 
