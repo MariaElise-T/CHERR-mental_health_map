@@ -14,49 +14,48 @@ There are now 3 different datafiles feeding the dashboard that are defined by th
 
 #### longitudinal_county_data
 
-- ** Added the fiscal year of the measurement **
-- ** Added the name of the county **
-- ** Added the number of confirmed victims in Child Protective Serivces (CPS) investigations per county per year, meaning the number of children who were eith er the subject of a substantiated or indicted maltreatment report or children who were identified as victims in an alternate response process.**, *filename*, source: https://data.texas.gov/dataset/CPI-3-8-Abuse-Neglect-Investigations-Alleged-and-C/v63e-6dss
-- ** Added the number of unconfirmed victims in (CPS) investigations per county per year, meaning the number of children who were the subjects of maltreatment reports that have either been dismissed or not yet substantiated.**, *filename*, source: https://data.texas.gov/dataset/CPI-3-8-Abuse-Neglect-Investigations-Alleged-and-C/v63e-6dss
-- ** Added the number of CPS removals in the family preservation stage per county per year.**, *filename*, source: https://data.texas.gov/dataset/CPS-2-1-Removals-by-County-FY2012-2021/xmtn-e5c8
-- ** Added the number of CPS removals in the investigation stage per county per year.**, *filename*, source: https://data.texas.gov/dataset/CPS-2-1-Removals-by-County-FY2012-2021/xmtn-e5c8
-- ** Added the total number of children in DFPS responsibility per county per year.**, *filename*, source: https://data.texas.gov/dataset/CPS-2-3-Children-In-DFPS-Legal-Responsibility-by-C/929f-jvud
-- ** Added the  **, *filename*, source: 
-- ** Added the  **, *filename*, source: 
-- ** Added the  **, *filename*, source: 
-- ** Added the  **, *filename*, source: 
-- ** Added the  **, *filename*, source: 
-- ** Added the  **, *filename*, source: 
-- ** Added the  **, *filename*, source: 
-- ** Added the  **, *filename*, source: 
-- ** Added the  **, *filename*, source: 
-- ** Added the  **, *filename*, source: 
+- **Added the fiscal year of the measurement.**
+- **Added the name of the county.**
+- **Added the number of confirmed victims in Child Protective Serivces (CPS) investigations per county per year, meaning the number of children who were eith er the subject of a substantiated or indicted maltreatment report or children who were identified as victims in an alternate response process.**, *CPI_3.8_Abuse_Neglect_Investigations_-_Alleged_and_Confirmed_Victims_By_County_FY2012-FY2021.csv*, source: https://data.texas.gov/dataset/CPI-3-8-Abuse-Neglect-Investigations-Alleged-and-C/v63e-6dss
+- **Added the number of unconfirmed victims in (CPS) investigations per county per year, meaning the number of children who were the subjects of maltreatment reports that have either been dismissed or not yet substantiated.**, *CPI_3.8_Abuse_Neglect_Investigations_-_Alleged_and_Confirmed_Victims_By_County_FY2012-FY2021.csv*, source: https://data.texas.gov/dataset/CPI-3-8-Abuse-Neglect-Investigations-Alleged-and-C/v63e-6dss
+- **Added the number of CPS removals in the family preservation stage per county per year.**, *CPS_2.1_Removals_-_by_County_FY2012-2021.csv*, source: https://data.texas.gov/dataset/CPS-2-1-Removals-by-County-FY2012-2021/xmtn-e5c8
+- **Added the number of CPS removals in the investigation stage per county per year.**, *CPS_2.1_Removals_-_by_County_FY2012-2021.csv*, source: https://data.texas.gov/dataset/CPS-2-1-Removals-by-County-FY2012-2021/xmtn-e5c8
+- **Added the total number of children in DFPS responsibility per county per year.**, *CPS_2.3_Children_In_DFPS_Legal_Responsibility_by_County_FY2012-2021.csv*, source: https://data.texas.gov/dataset/CPS-2-3-Children-In-DFPS-Legal-Responsibility-by-C/929f-jvud
+- **Added the total population of adults with qualifying disabilities between ages 18 and 64 per county.**, *APS_1.1_Texas_Adult_Populations_at_Risk_by_County_FY2012-FY2021.csv*, source: https://data.texas.gov/dataset/APS-1-1-Texas-Adult-Populations-at-Risk-by-County-/qjby-4sji
+- **Added the percentage of adults with qualifying disabilities between ages 18 and 64 per county.**, *APS_1.1_Texas_Adult_Populations_at_Risk_by_County_FY2012-FY2021.csv*, source: https://data.texas.gov/dataset/APS-1-1-Texas-Adult-Populations-at-Risk-by-County-/qjby-4sji
+- **Added the total number of adults over age 65 per county.**, *APS_1.1_Texas_Adult_Populations_at_Risk_by_County_FY2012-FY2021.csv*, source: https://data.texas.gov/dataset/APS-1-1-Texas-Adult-Populations-at-Risk-by-County-/qjby-4sji
+- **Added the percentage of adults over age 65 per county.**, *APS_1.1_Texas_Adult_Populations_at_Risk_by_County_FY2012-FY2021.csv*, source: https://data.texas.gov/dataset/APS-1-1-Texas-Adult-Populations-at-Risk-by-County-/qjby-4sji
+- **Added the total population of the county, as reported by Adult Protective Services per county.**, *APS_1.1_Texas_Adult_Populations_at_Risk_by_County_FY2012-FY2021.csv*, source: https://data.texas.gov/dataset/APS-1-1-Texas-Adult-Populations-at-Risk-by-County-/qjby-4sji
+- **Added the total number of Adult Protective Services clients per county.**, *APS_4.1_Services__Activity_by_County_FY2012-2021.csv*, source: https://data.texas.gov/dataset/APS-4-1-Services-Activity-by-County-FY2012-2021/jrvj-r5qx
+- **Added the total number of Adult Protective Services service stages per county.**, *APS_4.1_Services__Activity_by_County_FY2012-2021.csv*, source: https://data.texas.gov/dataset/APS-4-1-Services-Activity-by-County-FY2012-2021/jrvj-r5qx
+- **Added the total number of repeat alleged victims in Adult Protective Services investigations.**, *APS_5.2_Outcomes__Recidivism_by_County_FY2012-2021.csv*, source: https://data.texas.gov/dataset/APS-5-2-Outcomes-Recidivism-by-County-FY2012-2021/fhx8-fyu2
+- **Added the total number of initial alleged victims in Adult Protective Services investigations.**, *APS_5.2_Outcomes__Recidivism_by_County_FY2012-2021.csv*, source: https://data.texas.gov/dataset/APS-5-2-Outcomes-Recidivism-by-County-FY2012-2021/fhx8-fyu2
+- **Added the Adult Protective Services recidivism rate.**, *APS_5.2_Outcomes__Recidivism_by_County_FY2012-2021.csv*, source: https://data.texas.gov/dataset/APS-5-2-Outcomes-Recidivism-by-County-FY2012-2021/fhx8-fyu2
 
 #### longitudinal_statewide_data
-
-- ** Added the  **, *filename*, source: 
 
 Year
 month
 Texas
 firearms_background_checks
 schoolYear
-A01 - STATE CUMULATIVE YEAR END ENROLLMENT
-A02 - STATE DISCIPLINE POPULATION
-A03 - STATE DISCIPLINE RECORD COUNT
-G02 - 02-CONDUCT PUNISHABLE AS A FELONY
-G04 - 04-CONTROLLED SUBSTANCE/DRUGS
-G05 - 05-ALCOHOL VIOLATION
-G11 - 11-FIREARM OR HANDGUN VIOLATION
-G27 - 27-ASSAULT-DISTRICT EMPLOYEE
-G28 - 28-ASSAULT-NONDISTRICT EMPLOYEE
-G29 - 29-AGG ASSAULT-DISTRICT EMPLOYEE
-G30 - 30-AGG ASSAULT-NONDIST EMPLOYEE
-G32 - 32-SEXUAL ASSAULT-NONDIST EMPLOYE
-G34 - 34-SCHOOL-RELATED GANG VIOLENCE
-G36 - 36-FELONY CONTROLLED SUBS VIOLAT
-G41 - 41-FIGHTING/MUTUAL COMBAT
-Percent of drug samples recovered in Texas that tested positive for a specific substance in the given year (see METADATA for full list of identified substances)
+- ** Added the number of infractions across all public and charter schools in Texas for the offenses listed below.**, *filename*, source: 
+	- A01 - STATE CUMULATIVE YEAR END ENROLLMENT
+	- A02 - STATE DISCIPLINE POPULATION
+	- A03 - STATE DISCIPLINE RECORD COUNT
+	- G02 - CONDUCT PUNISHABLE AS A FELONY
+	- G04 - CONTROLLED SUBSTANCE/DRUGS
+	- G05 - ALCOHOL VIOLATION
+	- G11 - FIREARM OR HANDGUN VIOLATION
+	- G27 - ASSAULT-DISTRICT EMPLOYEE
+	- G28 - ASSAULT-NONDISTRICT EMPLOYEE
+	- G29 - AGG ASSAULT-DISTRICT EMPLOYEE
+	- G30 - AGG ASSAULT-NONDIST EMPLOYEE
+	- G32 - SEXUAL ASSAULT-NONDIST EMPLOYE
+	- G34 - SCHOOL-RELATED GANG VIOLENCE
+	- G36 - FELONY CONTROLLED SUBS VIOLAT
+	- G41 - FIGHTING/MUTUAL COMBAT
+- ** Added the percent of drug samples seized in Texas and tested by federal, state, or local laboratories that tested positive for a specific substance in the given year (see METADATA for full list of identified substances).**, *nflis-export_texas_20XX.csv*, source: https://www.nflis.deadiversion.usdoj.gov/publicDQSinfo.xhtml?jfwid=YZHGF-fFaYiVmtIY6YpG_ZtcnAd-BkyzL8EjxnoW:3
 State
 Routed
 Received
