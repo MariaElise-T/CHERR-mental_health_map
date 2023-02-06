@@ -34,12 +34,12 @@ There are now 3 different datafiles feeding the dashboard that are defined by th
 
 #### longitudinal_statewide_data
 
-Year
-month
-Texas
-firearms_background_checks
-schoolYear
-- ** Added the number of infractions across all public and charter schools in Texas for the offenses listed below.**, *filename*, source: 
+- **Added the calendar year of the measurement.**
+- **Added the calendar month of the measurement, if available.  If not available (i.e., a yearly measurement), the month is set to January.**
+- **Added the state the school-related measurement was taken from (in this dataset, this is always Texas.  This variable will be removed in a later version).**, *STATE_summary_XX.txt/csv*, source: https://tea.texas.gov/reports-and-data/student-data/discipline-data-products/discipline-reports
+- **Added the number of NICS firearm background checks per measurement interval in Texas.**, *filename*, source: https://www.fbi.gov/file-repository/nics_firearm_checks_-_month_year_by_state.pdf
+- **Added the school year corresponding to the measurement interval.**, *STATE_summary_XX.txt/csv*, source: https://tea.texas.gov/reports-and-data/student-data/discipline-data-products/discipline-reports
+- **Added the number of infractions across all public and charter schools in Texas for the offenses listed below.**, *STATE_summary_XX.txt/csv*, source: https://tea.texas.gov/reports-and-data/student-data/discipline-data-products/discipline-reports
 	- A01 - STATE CUMULATIVE YEAR END ENROLLMENT
 	- A02 - STATE DISCIPLINE POPULATION
 	- A03 - STATE DISCIPLINE RECORD COUNT
@@ -51,29 +51,26 @@ schoolYear
 	- G28 - ASSAULT-NONDISTRICT EMPLOYEE
 	- G29 - AGG ASSAULT-DISTRICT EMPLOYEE
 	- G30 - AGG ASSAULT-NONDIST EMPLOYEE
-	- G32 - SEXUAL ASSAULT-NONDIST EMPLOYE
+	- G32 - SEXUAL ASSAULT-NONDIST EMPLOYEE
 	- G34 - SCHOOL-RELATED GANG VIOLENCE
 	- G36 - FELONY CONTROLLED SUBS VIOLAT
 	- G41 - FIGHTING/MUTUAL COMBAT
-- ** Added the percent of drug samples seized in Texas and tested by federal, state, or local laboratories that tested positive for a specific substance in the given year (see METADATA for full list of identified substances).**, *nflis-export_texas_20XX.csv*, source: https://www.nflis.deadiversion.usdoj.gov/publicDQSinfo.xhtml?jfwid=YZHGF-fFaYiVmtIY6YpG_ZtcnAd-BkyzL8EjxnoW:3
-State
-Routed
-Received
-Answered_In_State
-In_state_answer_rate
-Abandoned_in_state
-Flowout_to_backup
-ASA_in_state
-Avg_talk_time_in_state
+- **Added the percent of drug samples seized in Texas and tested by federal, state, or local laboratories that tested positive for a specific substance in the given year (see METADATA for full list of identified substances).**, *nflis-export_texas_20XX.csv*, source: https://www.nflis.deadiversion.usdoj.gov/publicDQSinfo.xhtml?jfwid=YZHGF-fFaYiVmtIY6YpG_ZtcnAd-BkyzL8EjxnoW:3
+- **Added the state the 988-related measurement was taken from (in this dataset, this is always Texas.  This variable will be removed in a later version).**, *988_national_reports.xlsx*, source: https://www.samhsa.gov/find-help/988/performance-metrics
+- **Added the number of routed calls to 988 for the given time period.**, *988_national_reports.xlsx*, source: https://www.samhsa.gov/find-help/988/performance-metrics
+- **Added the number of received calls from 988 for the given time period.**, *988_national_reports.xlsx*, source: https://www.samhsa.gov/find-help/988/performance-metrics
+- **Added the number of calls receivied from 988 answered in-state for the given time period.**, *988_national_reports.xlsx*, source: https://www.samhsa.gov/find-help/988/performance-metrics
+- **Added the number of calls to 988 that were abandoned in-state for the given time period.**, *988_national_reports.xlsx*, source: https://www.samhsa.gov/find-help/988/performance-metrics
+- **Added the number of calls to 988 thats flowed out to backup out-of-state call centers for the given time period.**, *988_national_reports.xlsx*, source: https://www.samhsa.gov/find-help/988/performance-metrics
+- **Added the ASA_in_state for the given time period.**, *988_national_reports.xlsx*, source: https://www.samhsa.gov/find-help/988/performance-metrics
+- **Added the average call length for answered 988 calls in Texas for the given time period.**, *988_national_reports.xlsx*, source: https://www.samhsa.gov/find-help/988/performance-metrics
 
 #### snapshot_county_data
 
-- ** Added the  **, *filename*, source: 
-
-Total.number.of.waivered.providers
-Patient.capacity
-High.need.for.treatment.services
-Low.to.no.patient.capacity
+- **Added the total number of waivered buprenorphine providers per county (2018).**, *Buprenorphine-Waivered Providers.csv*, source: https://oig.hhs.gov/oei/maps/waivered-providers/index.html
+- **Added the patient capacity for buprenorphine treatment per county (2018).**, *Buprenorphine-Waivered Providers.csv*, source: https://oig.hhs.gov/oei/maps/waivered-providers/index.html
+- **Added the "high need for buprenorphine treatment services" indicator per county (2018).**, *Buprenorphine-Waivered Providers.csv*, source: https://oig.hhs.gov/oei/maps/waivered-providers/index.html
+- **Added the "low to no patient capacity for buprenorphine treatment services" indicator per county (2018).**, *Buprenorphine-Waivered Providers.csv*, source: https://oig.hhs.gov/oei/maps/waivered-providers/index.html
 
 ## RELEASE 1.3 CHANGES
 
