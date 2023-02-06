@@ -2,6 +2,8 @@
 
 ## RELEASE 2.1 CHANGES
 
+LINK TO DASHBOARD: https://public.tableau.com/views/CHERRMentalHealthMapV2_1/Homepage?:language=en-US&:display_count=n&:origin=viz_share_link
+
 Version 2 introduces new data that may be longitudinal, at a granularity other than county-level, or both.
 
 There are now 3 different datafiles feeding the dashboard that are defined by their granuality and temporality.
@@ -74,6 +76,8 @@ There are now 3 different datafiles feeding the dashboard that are defined by th
 
 ## RELEASE 1.3 CHANGES
 
+LINK TO DASHBOARD: https://public.tableau.com/views/CHERRMentalHealthMapV1_31/Homepage?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ### Variables
 
 - **Added the number of new applications for temporary mental health services per county (2020)**, *Mental_Health_Court_Cases.csv*, source: https://card.txcourts.gov/ReportSelection.aspx, Probate and Mental Health -> Mental Health Activity by County
@@ -105,6 +109,8 @@ There are now 3 different datafiles feeding the dashboard that are defined by th
 - Modified *tableau_shiny_alt.R* to work with *dashboard_data_v_1_3.csv*
 
 ## RELEASE 1.2 CHANGES
+
+LINK TO DASHBOARD: https://public.tableau.com/views/CHERRMentalHealthMapV1_2/Homepage?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ### Variables
 
