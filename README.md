@@ -37,7 +37,7 @@ There are now 3 different datafiles feeding the dashboard that are defined by th
 - **Added the calendar year of the measurement.**
 - **Added the calendar month of the measurement, if available.  If not available (i.e., a yearly measurement), the month is set to January.**
 - **Added the state the school-related measurement was taken from (in this dataset, this is always Texas.  This variable will be removed in a later version).**, *STATE_summary_XX.txt/csv*, source: https://tea.texas.gov/reports-and-data/student-data/discipline-data-products/discipline-reports
-- **Added the number of NICS firearm background checks per measurement interval in Texas.**, *filename*, source: https://www.fbi.gov/file-repository/nics_firearm_checks_-_month_year_by_state.pdf
+- **Added the number of NICS firearm background checks per measurement interval in Texas.**, *Federal_firearms_bans_Dec21.xlsx*, source: https://www.fbi.gov/file-repository/nics_firearm_checks_-_month_year_by_state.pdf
 - **Added the school year corresponding to the measurement interval.**, *STATE_summary_XX.txt/csv*, source: https://tea.texas.gov/reports-and-data/student-data/discipline-data-products/discipline-reports
 - **Added the number of infractions across all public and charter schools in Texas for the offenses listed below.**, *STATE_summary_XX.txt/csv*, source: https://tea.texas.gov/reports-and-data/student-data/discipline-data-products/discipline-reports
 	- A01 - STATE CUMULATIVE YEAR END ENROLLMENT
