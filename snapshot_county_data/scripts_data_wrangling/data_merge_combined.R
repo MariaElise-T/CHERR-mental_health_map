@@ -2,7 +2,7 @@ library(readxl)
 library(stringr)
 
 #setwd('..')
-setwd("C:/Users/met48/Desktop/V2.1_CHERR-mental_health_data_processing/snapshot_county_data")
+setwd("/Users/maria/Desktop/CHERR-mental_health_map/snapshot_county_data")
 
 ########################################################
 # Social/Medical Data Format
@@ -248,10 +248,19 @@ data_merged$Traffic_Fatalities_per_100k <- (100000)*data_merged$`Total Traffic F
 # Buprenorphine
 ########################################################
 
-Buprenorphine <- read.csv("C:/Users/met48/Desktop/V2.1_CHERR-mental_health_data_processing/snapshot_county_data/data_raw/Buprenorphine-Waivered Providers.csv")
+Buprenorphine <- read.csv("data_raw/Buprenorphine-Waivered-Providers.csv")
 Buprenorphine <- Buprenorphine[which(Buprenorphine$State=='Texas'), colnames(Buprenorphine) %in% c("County", "Total.number.of.waivered.providers", "Patient.capacity", "High.need.for.treatment.services", "Low.to.no.patient.capacity")]
 Buprenorphine$County <- gsub(" County", "", Buprenorphine$County)
 data_merged <- merge(data_merged, Buprenorphine, by.x="Name", by.y="County", all=T)
+
+########################################################
+# Community Health Rankings Lifestyle variables
+########################################################
+
+CHR_lifestyle <- read.csv("data_raw/CHR_lifestyle.csv")
+colnames(CHR_lifestyle) <- c("FIPS", "State", "County", "Frequent_Mental_Distress", "Average_Bad_MH_Days", "Deaths_Suicide", "Suicide_Rate_AA", "Perc_Food_Insecure", "Perc_Limited_Acc_Healthy_Foods", "Perc_Physically_Inactive", "Perc_With_Acc_Exercise", "Income_80th", "Income_20th", "Income_Ratio", "Perc_Severe_Housing_Issues", "Dev2019")
+CHR_lifestyle <- CHR_lifestyle[, -c(2,3)]
+data_merged <- merge(data_merged, CHR_lifestyle, by.x="fips", by.y="FIPS", all=T)
 
 ########################################################
 # Add I-35 Filter Variable
